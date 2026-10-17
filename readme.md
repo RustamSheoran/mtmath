@@ -31,32 +31,18 @@ Every undergraduate at MIT, Harvard, Caltech, Stanford, and Princeton must compl
 • **Topics:** Differentiation, mean value theorem, fundamental theorem of calculus, integration techniques, Taylor series, applications to physical modeling.
 • **Assignments:** Complete problem sets with worked solution videos.
 • **Links:** <a href="https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
-  *(Mastery Benchmark Note: Harvard Math 55 and Peking University Mathematical Analysis based on Zorich represent the absolute apex of pure proof-based analysis, but lack an official unified English video course on OCW; MIT 18.01SC is plugged in above as the premier full-video masterclass. Below are the verified direct resources, complete lecture notes, problem sets, and discovered video archives).*
 
-  > #### 🏛️ Theoretical Apex Benchmark 1: Harvard University -> Math 55 (55a & 55b)
-  > Widely regarded as the most rigorous and demanding undergraduate mathematics sequence in the world. Officially divided into **Math 55a: Honors Abstract Algebra** (Fall) and **Math 55b: Honors Real and Complex Analysis** (Spring).
-  > -> **Fields Medalist Curtis McMullen's Archives:**
-  >   -> **Math 55a Portal & Syllabi:** <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55a/08/html/" target="_blank" rel="noopener noreferrer">Harvard Math 55a Portal</a> | <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55a/08/html/syl.html" target="_blank" rel="noopener noreferrer">Syllabus</a>
-  >   -> **Math 55a Complete Lecture Notes (PDF):** <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55a/08/html/home/course/course.pdf" target="_blank" rel="noopener noreferrer">Math 55a Course Notes (PDF)</a>
-  >   -> **Math 55a Problem Sets:** <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55a/08/html/hw.html" target="_blank" rel="noopener noreferrer">Homework Archives</a> | <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55a/08/html/final.html" target="_blank" rel="noopener noreferrer">Final Exam</a>
-  >   -> **Math 55b Portal & Syllabi:** <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55b/10/html/" target="_blank" rel="noopener noreferrer">Harvard Math 55b Portal</a> | <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55b/10/html/syl.html" target="_blank" rel="noopener noreferrer">Syllabus</a>
-  >   -> **Math 55b Complete Lecture Notes (PDF):** <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55b/10/html/home/course/course.pdf" target="_blank" rel="noopener noreferrer">Math 55b Course Notes (PDF)</a>
-  >   -> **Math 55b Problem Sets & Supplementary Notes:** <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55b/10/html/hw.html" target="_blank" rel="noopener noreferrer">Homework Archives</a> | <a href="https://people.math.harvard.edu/~ctm/home/text/others/bott/bott_tu/bott_tu.pdf" target="_blank" rel="noopener noreferrer">Bott-Tu Differential Forms Notes (PDF)</a>
-  > -> **Prof. Noam Elkies' Complete Lecture Notes & Problem Sets Archive:**
-  >   -> **Math 55a Full HTML/LaTeX Notes & Psets:** <a href="https://people.math.harvard.edu/~elkies/M55a.17/index.html" target="_blank" rel="noopener noreferrer">Elkies Math 55a Portal</a>
-  >   -> **Math 55b Full HTML/LaTeX Notes & Psets:** <a href="https://people.math.harvard.edu/~elkies/M55b.17/index.html" target="_blank" rel="noopener noreferrer">Elkies Math 55b Portal</a>
-  >   -> **Historical Course Archives (1999 -> 2018):** <a href="https://people.math.harvard.edu/~elkies/M55b.17/index.html" target="_blank" rel="noopener noreferrer">Noam Elkies Course Index</a>
-  > -> **Direct Video Recordings & Lecture Archives:**
-  >   -> <a href="https://www.youtube.com/watch?v=M_33bPMdRQU" target="_blank" rel="noopener noreferrer">Harvard Math 55 Review: Complex Analysis</a>
-  >
-  > #### 🏛️ Theoretical Apex Benchmark 2: Rigorous Modern Analysis (MIT 18.100A & Francis Su)
-  > For students seeking advanced mathematical analysis delivered **directly with complete lecture video courses**:
-  > -> **Harvey Mudd / Claremont (Math 131) -> Real Analysis: Baby Rudin (Prof. Francis Su):**
-  >   -> Complete 30-lecture recorded masterclass on *Principles of Mathematical Analysis* (Walter Rudin) covering metric spaces, compactness, continuity, Riemann-Stieltjes integration, and uniform convergence:
-  >   -> <a href="https://www.youtube.com/playlist?list=PL0E754696F72137EC" target="_blank" rel="noopener noreferrer">Francis Su Real Analysis YouTube Playlist</a>
-  > -> **MIT 18.100A -> Real Analysis (Prof. Casey Rodriguez):**
-  >   -> Complete full-semester MIT undergraduate course with full video lectures, complete lecture notes, problem sets, and exams:
-  >   -> <a href="https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/" target="_blank" rel="noopener noreferrer">MIT OCW 18.100A Real Analysis Course Portal</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62Ie7F_tTAhhXoX5_Cl8meG" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
+#### 🏛️ Theoretical Apex Benchmark: Honors Analysis & Proofs (Harvard Math 55 & Baby Rudin)
+*(For autodidacts seeking pure proof-based mathematical analysis beyond standard introductory calculus, Harvard Math 55 and Baby Rudin represent the undisputed global pinnacle).*
+
+• **Benchmark 1: Harvard University -> Math 55 (55a & 55b: Honors Abstract Algebra & Honors Real/Complex Analysis)**
+  • **Curtis McMullen Archive:** <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55a/08/html/" target="_blank" rel="noopener noreferrer">Math 55a Portal & Syllabi</a> | <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55a/08/html/home/course/course.pdf" target="_blank" rel="noopener noreferrer">Math 55a Course Notes (PDF)</a> | <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55b/10/html/" target="_blank" rel="noopener noreferrer">Math 55b Portal & Syllabi</a> | <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55b/10/html/home/course/course.pdf" target="_blank" rel="noopener noreferrer">Math 55b Course Notes (PDF)</a>
+  • **Noam Elkies Archive:** <a href="https://people.math.harvard.edu/~elkies/M55a.17/index.html" target="_blank" rel="noopener noreferrer">Elkies Math 55a Notes & Psets</a> | <a href="https://people.math.harvard.edu/~elkies/M55b.17/index.html" target="_blank" rel="noopener noreferrer">Elkies Math 55b Notes & Psets</a> | <a href="https://people.math.harvard.edu/~elkies/M55b.17/index.html" target="_blank" rel="noopener noreferrer">Course Index</a>
+  • **Problem Sets & Lecture Video:** <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55a/08/html/hw.html" target="_blank" rel="noopener noreferrer">Math 55a Homework Archives</a> | <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55b/10/html/hw.html" target="_blank" rel="noopener noreferrer">Math 55b Homework Archives</a> | <a href="https://www.youtube.com/watch?v=M_33bPMdRQU" target="_blank" rel="noopener noreferrer">Harvard Math 55 Review: Complex Analysis Video</a>
+
+• **Benchmark 2: Rigorous Modern Analysis with Complete Video Lectures**
+  • **Harvey Mudd / Claremont (Math 131) -> Real Analysis: Baby Rudin (Prof. Francis Su):** <a href="https://www.youtube.com/playlist?list=PL0E754696F72137EC" target="_blank" rel="noopener noreferrer">Francis Su Real Analysis YouTube Playlist</a>
+  • **MIT 18.100A -> Real Analysis (Prof. Casey Rodriguez):** <a href="https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/" target="_blank" rel="noopener noreferrer">MIT OCW 18.100A Course Portal</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62Ie7F_tTAhhXoX5_Cl8meG" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 ### 2. Multivariable Calculus & Vector Analysis
 • **Best-in-Class:** **MIT 18.02SC -> Multivariable Calculus** | *Prof. Denis Auroux* | `🎥 Full Video Lectures`
