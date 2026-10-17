@@ -30,7 +30,7 @@ Every undergraduate at MIT, Harvard, Caltech, Stanford, and Princeton must compl
 • **Best-in-Class:** **MIT 18.01SC -> Single Variable Calculus** | *Prof. David Jerison* | `🎥 Full Video Lectures`
 • **Topics:** Differentiation, mean value theorem, fundamental theorem of calculus, integration techniques, Taylor series, applications to physical modeling.
 • **Assignments:** Complete problem sets with worked solution videos.
-• **Links:** <a href="https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a>
+• **Links:** <a href="https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
   *(Mastery Benchmark Note: Harvard Math 55 and Peking University Mathematical Analysis based on Zorich represent the absolute apex of pure proof-based analysis, but lack an official unified English video course on OCW; MIT 18.01SC is plugged in above as the premier full-video masterclass. Below are the verified direct resources, complete lecture notes, problem sets, and discovered video archives).*
 
   > #### 🏛️ Theoretical Apex Benchmark 1: Harvard University -> Math 55 (55a & 55b)
@@ -56,13 +56,13 @@ Every undergraduate at MIT, Harvard, Caltech, Stanford, and Princeton must compl
   >   -> <a href="https://www.youtube.com/playlist?list=PL0E754696F72137EC" target="_blank" rel="noopener noreferrer">Francis Su Real Analysis YouTube Playlist</a>
   > -> **MIT 18.100A -> Real Analysis (Prof. Casey Rodriguez):**
   >   -> Complete full-semester MIT undergraduate course with full video lectures, complete lecture notes, problem sets, and exams:
-  >   -> <a href="https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/" target="_blank" rel="noopener noreferrer">MIT OCW 18.100A Real Analysis Course Portal</a>
+  >   -> <a href="https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/" target="_blank" rel="noopener noreferrer">MIT OCW 18.100A Real Analysis Course Portal</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62Ie7F_tTAhhXoX5_Cl8meG" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 ### 2. Multivariable Calculus & Vector Analysis
 • **Best-in-Class:** **MIT 18.02SC -> Multivariable Calculus** | *Prof. Denis Auroux* | `🎥 Full Video Lectures`
 • **Topics:** Vector algebra, partial derivatives, Lagrange multipliers, double and triple integrals, line/surface integrals, Green's Theorem, Stokes' Theorem, Divergence Theorem.
 • **Assignments:** 35 recitation problem-solving sessions and exams with full solutions.
-• **Links:** <a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a>
+• **Links:** <a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 ### 3. Linear Algebra & Subspace Geometry
 • **Best-in-Class:** **MIT 18.06SC -> Linear Algebra** | *Prof. Gilbert Strang* | `🎥 Full Video Lectures`
@@ -74,7 +74,7 @@ Every undergraduate at MIT, Harvard, Caltech, Stanford, and Princeton must compl
 • **Best-in-Class:** **MIT 18.03SC -> Differential Equations** | *Prof. Arthur Mattuck* | `🎥 Full Video Lectures`
 • **Topics:** First-order ODEs, second-order linear differential equations, Laplace transforms, linear systems, matrix exponentials, phase portraits, Fourier series, PDEs.
 • **Assignments:** Complete problem sets, interactive Java applet labs, and exam archives.
-• **Links:** <a href="https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
+• **Links:** <a href="https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLEC88901EBADDD980" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 ### 5. Probability & Stochastic Thinking
 • **Best-in-Class:** **Harvard Stat 110 -> Introduction to Probability** | *Prof. Joe Blitzstein* | `🎥 Full Video Lectures`
@@ -90,7 +90,7 @@ Every undergraduate at MIT, Harvard, Caltech, Stanford, and Princeton must compl
 ### 7. Electricity & Magnetism
 • **Best-in-Class:** **MIT 8.02 -> Electricity and Magnetism** | *Prof. Walter Lewin / John Belcher* | `🎥 Full Video Lectures`
 • **Topics:** Coulomb's Law, electric field, Gauss's law, electric potential, capacitance, magnetic fields, Biot-Savart, Ampère's law, Faraday induction, Maxwell's equations, EM waves.
-• **Links:** <a href="https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a>
+• **Links:** <a href="https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLXxKquKDjOPedW-n-XLX0u1WoPvn0a49B" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 ### 8. Chemistry Core (Chemical Science or Solid-State)
 • **Option A:** **MIT 5.111SC -> Principles of Chemical Science** | *Prof. Catherine Drennan* | `🎥 Full Video Lectures`  
@@ -121,23 +121,23 @@ A rigorous mathematical curriculum taking you through pure abstract theory and s
 
 ### Term 1 (Freshman Fall): Mathematical Foundations, Single Variable Calculus & Proofs (4 Subjects)
 
-1. **MIT 18.01SC** -> Single Variable Calculus (Jerison) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+1. **MIT 18.01SC** -> Single Variable Calculus (Jerison) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-2. **MIT 18.02SC** -> Multivariable Calculus (Auroux) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+2. **MIT 18.02SC** -> Multivariable Calculus (Auroux) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-3. **MIT 18.03SC** -> Differential Equations (Mattuck) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+3. **MIT 18.03SC** -> Differential Equations (Mattuck) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLEC88901EBADDD980" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-4. **MIT 18.06SC** -> Linear Algebra (Gilbert Strang) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+4. **MIT 18.06SC** -> Linear Algebra (Gilbert Strang) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 ### Term 2 (Freshman Spring): Multivariable Analysis, ODEs & Rigorous Foundations (4 Subjects)
 
-5. **Carnegie Mellon University (CMU) 21-127** -> Concepts of Mathematics / Proofs (John Mackey & Clive Newstead) | `🎥 Full Video` | <a href="https://infinitedescent.org/" target="_blank" rel="noopener noreferrer">Course Textbook: Infinite Descent</a>
+5. **Carnegie Mellon University (CMU) 21-127** -> Concepts of Mathematics / Proofs (John Mackey & Clive Newstead) | `📄 Complete Textbook & Problem Sets` | <a href="https://infinitedescent.org/" target="_blank" rel="noopener noreferrer">Course Textbook: Infinite Descent</a>
 
 6. **Harvey Mudd / Claremont -> Math 131** -> Real Analysis: Baby Rudin (Francis Su) | `🎥 Full Video` | <a href="https://www.youtube.com/playlist?list=PL0E754696F72137EC" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
    *(Mastery Benchmark Note: Francis Su at Harvey Mudd provides the premier English video lectures on Baby Rudin. Benchmark honors notes and problem sets:)*
    • **Harvard Math 55b (Honors Real & Complex Analysis):** <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55b/10/html/home/course/course.pdf" target="_blank" rel="noopener noreferrer">Curtis McMullen Course Notes (PDF)</a> | <a href="https://people.math.harvard.edu/~ctm/home/text/class/harvard/55b/10/html/hw.html" target="_blank" rel="noopener noreferrer">Homework Sets</a> | <a href="https://people.math.harvard.edu/~elkies/M55b.17/index.html" target="_blank" rel="noopener noreferrer">Noam Elkies Math 55b Notes</a>
 
-7. **MIT 18.100A** -> Real Analysis (Casey Rodriguez -> Metric Spaces, Continuous Functions, Differentiation, Integration) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/" target="_blank" rel="noopener noreferrer">MIT OCW 18.100A Course Portal</a>
+7. **MIT 18.100A** -> Real Analysis (Casey Rodriguez -> Metric Spaces, Continuous Functions, Differentiation, Integration) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/" target="_blank" rel="noopener noreferrer">MIT OCW 18.100A Course Portal</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62Ie7F_tTAhhXoX5_Cl8meG" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 8. **Harvard University -> Math 122** -> Abstract Algebra: Groups and Rings (Benedict Gross) | `🎥 Full Video` | <a href="https://www.youtube.com/playlist?list=PLA7B08F1D8252DE29" target="_blank" rel="noopener noreferrer">Harvard Abstract Algebra YouTube Playlist</a>
 
@@ -145,7 +145,7 @@ A rigorous mathematical curriculum taking you through pure abstract theory and s
 
 9. **UC Berkeley -> Math 113 / 250A** -> Abstract Algebra: Fields & Galois Theory (Fields Medalist Richard Borcherds) | `🎥 Full Video` | <a href="https://www.youtube.com/playlist?list=PL8yHsr3EFj53Zxu3iRGMYL_89GDMvdkgt" target="_blank" rel="noopener noreferrer">Richard Borcherds Galois Theory Playlist</a>
 
-10. **MIT RES.18-008** -> Calculus Revisited: Complex Variables (Herb Gross) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+10. **MIT RES.18-008** -> Calculus Revisited: Complex Variables (Herb Gross) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/watch?v=BOx8LRyr8mU" target="_blank" rel="noopener noreferrer">YouTube Video Lectures</a>
 
 11. **UC Berkeley -> Math 185** -> Complex Analysis (Fields Medalist Richard Borcherds) | `🎥 Full Video` | <a href="https://www.youtube.com/playlist?list=PL8yHsr3EFj537_iYA5QrvwhvMlpkJ1yGN" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
@@ -159,9 +159,9 @@ A rigorous mathematical curriculum taking you through pure abstract theory and s
 
 15. **Harvard Stat 110** -> Introduction to Probability (Joe Blitzstein) | `🎥 Full Video` | <a href="https://probabilitybook.net" target="_blank" rel="noopener noreferrer">Harvard Stat 110 Free Textbook (PDF)</a> | <a href="https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-16. **MIT 18.085** -> Computational Science and Engineering I (Gilbert Strang) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+16. **MIT 18.085** -> Computational Science and Engineering I (Gilbert Strang) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLF706B428FB7BD52C" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-17. **MIT 18.086** -> Computational Science and Engineering II (Strang -> PDEs, Finite Elements) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+17. **MIT 18.086** -> Computational Science and Engineering II (Strang -> PDEs, Finite Elements) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PL549CF1192F5A8CD8" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 ### Term 5 (Junior Fall): Differential Geometry, Topology, Functional Analysis & High-Performance Computing (4 Subjects)
 
@@ -169,21 +169,21 @@ A rigorous mathematical curriculum taking you through pure abstract theory and s
 
 19. **ETH Zurich** -> Numerical Methods for CSE (Ralf Hiptmair) | `📄 Comprehensive Lecture Documents, C++ Codebase & Problem Sets` | <a href="https://gitlab.math.ethz.ch/NumCSE/NumCSE" target="_blank" rel="noopener noreferrer">ETH NumCSE Official GitLab Codebase</a>
 
-20. **MIT 6.041 / 6.431** -> Probabilistic Systems Analysis (John Tsitsiklis) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+20. **MIT 6.041 / 6.431** -> Probabilistic Systems Analysis (John Tsitsiklis) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLsn-DM1mCImnWnFJ9TYsBB32CVwT9958K" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-21. **MIT 18.650** -> Statistics for Applications (Philippe Rigollet) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+21. **MIT 18.650** -> Statistics for Applications (Philippe Rigollet) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLpXfHEl2fzl7bwTLF09KH4FvdYSDJuPkV" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 ### Term 6 (Junior Spring): Measure Theory, Analysis on Manifolds, Commutative Algebra & Data Algorithms (5 Subjects)
 
-22. **Stanford CS 246** -> Mining Massive Datasets / Big Data Algorithms (Jure Leskovec) | `🎥 Full Video` | <a href="https://web.stanford.edu/class/cs246/" target="_blank" rel="noopener noreferrer">Stanford CS246</a>
+22. **Stanford CS 246** -> Mining Massive Datasets / Big Data Algorithms (Jure Leskovec) | `💻 Open Course Notes, Code & Problem Sets` | <a href="https://web.stanford.edu/class/cs246/" target="_blank" rel="noopener noreferrer">Stanford CS246 Portal</a>
 
-23. **MIT 18.065** -> Matrix Methods in Data Analysis, Signal Processing, and ML (Strang) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+23. **MIT 18.065** -> Matrix Methods in Data Analysis, Signal Processing, and ML (Strang) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-24. **MIT 18.S191** -> Introduction to Computational Thinking with Julia (Grant Sanderson / 3Blue1Brown) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+24. **MIT 18.S191** -> Introduction to Computational Thinking with Julia (Grant Sanderson / 3Blue1Brown) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-25. **MIT 18.S096** -> Topics in Mathematics with Applications to Finance (Stochastic Calculus) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+25. **MIT 18.S096** -> Topics in Mathematics with Applications to Finance (Stochastic Calculus) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLCem3zQYUPK2ti8-kPR6g10z_Num2GWXz" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-26. **MIT 18.102** -> Introduction to Functional Analysis (Casey Rodriguez -> Hilbert/Banach Spaces, Spectral Theorem) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/" target="_blank" rel="noopener noreferrer">MIT OCW 18.102 Course Portal</a>
+26. **MIT 18.102** -> Introduction to Functional Analysis (Casey Rodriguez -> Hilbert/Banach Spaces, Spectral Theorem) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/" target="_blank" rel="noopener noreferrer">MIT OCW 18.102 Course Portal</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63micsJp_--fRAjZXPrQzW_" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 ### Term 7 (Senior Fall): Algebraic Topology, Analytic Number Theory, PDEs & Matrix ML (5 Subjects)
 
@@ -201,9 +201,9 @@ A rigorous mathematical curriculum taking you through pure abstract theory and s
 
 32. **MIT 18.152** -> Introduction to Partial Differential Equations (David Jerison -> Elliptic PDEs, Maximum Principles, Heat & Wave Equations) | `🎥 Full Video & Lecture Notes` | <a href="https://ocw.mit.edu/courses/18-152-introduction-to-partial-differential-equations-fall-2011/" target="_blank" rel="noopener noreferrer">MIT OCW 18.152 Course Portal</a> | <a href="https://www.youtube.com/watch?v=UZiEFO3J8mE" target="_blank" rel="noopener noreferrer">MIT 18.152 Lecture Video (Jerison)</a>
 
-33. **MIT 18.217** -> Graph Theory and Additive Combinatorics (Yufei Zhao -> Szemerédi Regularity Lemma) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+33. **MIT 18.217** -> Graph Theory and Additive Combinatorics (Yufei Zhao -> Szemerédi Regularity Lemma) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-34. **MIT 18.S097** -> Applied Category Theory (Brendan Fong & David Spivak -> Functors, Monads, Operads) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+34. **MIT 18.S097** -> Applied Category Theory (Brendan Fong & David Spivak -> Functors, Monads, Operads) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLmB9zOCKwySFT_mVj2MrNu20HfZ986r-5" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 35. **Cambridge University / MIT 18.821** -> Research Mathematics Seminar & Tripos Masterclass (Steven Kleiman) | `🏛️ Mathematics Research Seminar & Tripos Capstone Framework` | <a href="https://ocw.mit.edu/courses/18-821-project-laboratory-in-mathematics-spring-2013/" target="_blank" rel="noopener noreferrer">MIT 18.821 OCW Course Portal</a>
 
@@ -219,29 +219,29 @@ Covering classical mechanics, quantum theory, statistical mechanics, general rel
 
 ### Term 1 (Freshman Fall): Classical Mechanics, Vector Dynamics & Analytical Formulations (4 Subjects)
 
-1. **MIT 8.01SC** -> Classical Mechanics (Newtonian Dynamics, Rotation, Oscillations) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+1. **MIT 8.01SC** -> Classical Mechanics (Newtonian Dynamics, Rotation, Oscillations) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-2. **MIT 8.02** -> Physics II: Electricity & Magnetism (Walter Lewin / John Belcher) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+2. **MIT 8.02** -> Physics II: Electricity & Magnetism (Walter Lewin / John Belcher) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLXxKquKDjOPedW-n-XLX0u1WoPvn0a49B" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-3. **MIT 8.03SC** -> Physics III: Vibrations and Waves (Yen-Jie Lee -> Coupled Oscillators, EM Waves) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+3. **MIT 8.03SC** -> Physics III: Vibrations and Waves (Yen-Jie Lee -> Coupled Oscillators, EM Waves, Polarization) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLI5jeqpvqyFQ-p3lBv_H8xPBWrYM0tvx6" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 4. **Stanford University** -> Theoretical Minimum: Special Relativity & Classical Field Theory (Leonard Susskind -> Field Tensors, Maxwell Action) | `🎥 Full Video` | <a href="https://theoreticalminimum.com/courses/special-relativity-and-classical-field-theory" target="_blank" rel="noopener noreferrer">Stanford Portal</a> | <a href="https://www.youtube.com/playlist?list=PLD9DDFBDC338226CA" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
    *(Mastery Benchmark Note: MIT 8.033 Relativity is the standard theoretical benchmark; Susskind's Stanford series is plugged in above as the premier video course. Benchmark syllabus and notes: <a href="https://ocw.mit.edu/courses/8-033-relativity-fall-2006/" target="_blank" rel="noopener noreferrer">MIT OCW 8.033 Max Tegmark Complete Lecture Notes & Psets</a>).*
 
 ### Term 2 (Freshman Spring): Electromagnetism, Oscillations, Waves & Special Relativity (4 Subjects)
 
-5. **Stanford University** -> Theoretical Minimum: Classical Mechanics (Leonard Susskind -> Lagrangians & Hamiltonians) | `🎥 Full Video` | <a href="https://theoreticalminimum.com/courses/classical-mechanics" target="_blank" rel="noopener noreferrer">Stanford Theoretical Minimum Portal</a>
+5. **Stanford University** -> Theoretical Minimum: Classical Mechanics (Leonard Susskind -> Lagrangian & Hamiltonian Formulations) | `🎥 Full Video` | <a href="https://theoreticalminimum.com/courses/classical-mechanics" target="_blank" rel="noopener noreferrer">Stanford Theoretical Minimum Portal</a> | <a href="https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 6. **Yale University -> PHYS 200 & 201** -> Fundamentals of Physics I & II (Ramamurti Shankar -> Complete Mathematical Foundations) | `🎥 Full Video` | <a href="https://oyc.yale.edu/physics/phys-200" target="_blank" rel="noopener noreferrer">Yale Portal</a> | <a href="https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-7. **UC Berkeley** -> Physics 111A/B: Advanced Instrumentation & Experimental Physics Video Masterclass | `🎥 Full Video` | <a href="https://instrumentationlab.berkeley.edu/" target="_blank" rel="noopener noreferrer">Berkeley Physics 111 Instrumentation Lab</a> | <a href="https://instrumentationlab.berkeley.edu/labassignments" target="_blank" rel="noopener noreferrer">Physics 111 Lab Assignments</a>
+7. **UC Berkeley** -> Physics 111A/B: Advanced Instrumentation & Experimental Physics Laboratory | `🔬 Advanced Instrumentation Laboratory & Design Projects` | <a href="https://instrumentationlab.berkeley.edu/" target="_blank" rel="noopener noreferrer">Berkeley Physics 111 Instrumentation Lab</a> | <a href="https://instrumentationlab.berkeley.edu/Physics111A" target="_blank" rel="noopener noreferrer">Physics 111 Lab Assignments</a> | <a href="https://ocw.mit.edu/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/" target="_blank" rel="noopener noreferrer">MIT OCW 8.13/8.14 Experimental Physics Junior Lab Manual</a>
    *(Mastery Benchmark Note: MIT 8.13 Junior Lab I is notes-only; UC Berkeley Physics 111 is plugged in above as the #1 video lab. Benchmark manual: <a href="https://ocw.mit.edu/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/" target="_blank" rel="noopener noreferrer">MIT OCW 8.13/8.14 Experimental Physics Junior Lab Manual</a>).*
 
 8. **MIT 8.13 / 8.14** -> Experimental Physics I & II: Junior Lab (Compton Scattering, Pulsed NMR, Hall Effect, Superconductivity) | `📄 Complete Laboratory Manual & Experiment Guides` | <a href="https://ocw.mit.edu/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/" target="_blank" rel="noopener noreferrer">MIT OCW 8.13/8.14 Course Portal</a>
 
 ### Term 3 (Sophomore Fall): Quantum Mechanics I & Experimental Physics Junior Lab I (4 Subjects)
 
-9. **MIT 18.03SC** -> Differential Equations for Physicists (Arthur Mattuck) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+9. **MIT 18.03SC** -> Differential Equations for Physicists (Arthur Mattuck) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLEC88901EBADDD980" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 10. **MIT 8.04** -> Quantum Physics I (Barton Zwiebach -> Wave Mechanics, 1D Potentials, Operators) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/" target="_blank" rel="noopener noreferrer">OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
@@ -253,21 +253,21 @@ Covering classical mechanics, quantum theory, statistical mechanics, general rel
 
 13. **Stanford University** -> Theoretical Minimum: Quantum Mechanics & Entanglement (Leonard Susskind) | `🎥 Full Video` | <a href="https://theoreticalminimum.com/courses/quantum-mechanics" target="_blank" rel="noopener noreferrer">Stanford Portal</a> | <a href="https://www.youtube.com/playlist?list=PL701CD168D02FF56F" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-14. **Stanford University** -> Theoretical Minimum: Statistical Mechanics (Leonard Susskind -> Partition Functions, Ensembles) | `🎥 Full Video` | <a href="https://theoreticalminimum.com/courses/statistical-mechanics" target="_blank" rel="noopener noreferrer">Stanford Theoretical Minimum Portal</a>
+14. **Stanford University** -> Theoretical Minimum: Statistical Mechanics (Leonard Susskind -> Partition Functions, Phase Transitions) | `🎥 Full Video` | <a href="https://theoreticalminimum.com/courses/statistical-mechanics" target="_blank" rel="noopener noreferrer">Stanford Theoretical Minimum Portal</a> | <a href="https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-15. **Cambridge University** -> Quantum Field Theory: Dirac Equation, Klein-Gordon & QED (David Tong) | `🎥 Full Video` | <a href="https://www.damtp.cam.ac.uk/user/tong/qft.html" target="_blank" rel="noopener noreferrer">David Tong QFT Portal</a>
+15. **Cambridge University** -> Quantum Field Theory: Dirac Equation, Klein-Gordon & Feynman Diagrams (David Tong) | `🎥 Full Video` | <a href="https://www.damtp.cam.ac.uk/user/tong/qft.html" target="_blank" rel="noopener noreferrer">David Tong QFT Portal</a> | <a href="https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e" target="_blank" rel="noopener noreferrer">David Tong QFT Video Archive</a>
 
-16. **Perimeter Institute for Theoretical Physics (PSI)** -> Quantum Field Theory & Standard Model (Freddy Cachazo) | `🎥 Full Video` | <a href="https://pirsa.org/C13025" target="_blank" rel="noopener noreferrer">Perimeter PSI QFT Archive</a>
+16. **Perimeter Institute for Theoretical Physics (PSI)** -> Quantum Field Theory (Francois David -> Canonical Quantization, Path Integrals) | `🎥 Full Video` | <a href="https://www.perimeterinstitute.ca/training/psi-masters-program" target="_blank" rel="noopener noreferrer">Perimeter PSI QFT Archive</a> | <a href="https://www.youtube.com/playlist?list=PLaNkJORnlhZlh8nAocQd3Gz1PhAjI_5Jr" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-17. **MIT 8.333** -> Statistical Mechanics of Particles (Graduate -> Mehran Kardar) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+17. **MIT 8.333** -> Statistical Mechanics of Particles (Graduate -> Mehran Kardar -> Microcanonical, Canonical, Grand Canonical) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLYmwFR_XLSpb-1cxPCG2X4NUeRuMLv61A" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 ### Term 5 (Junior Fall): Quantum Mechanics III, Statistical Mechanics of Particles & Advanced Condensed Matter (4 Subjects)
 
-18. **MIT 8.334** -> Statistical Mechanics of Fields (Graduate -> Mehran Kardar -> Renormalization Group) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+18. **MIT 8.334** -> Statistical Mechanics of Fields (Graduate -> Mehran Kardar -> Renormalization Group, Scaling, Fluctuations) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLYmwFR_XLSpbD9iRLRwRAzdBDlaFPjAf-" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-19. **University of Oxford** -> The Oxford Solid State Basics (Steven H. Simon -> Phonons, Band Theory, Semiconductors) | `🎥 Full Video` | <a href="https://podcasts.ox.ac.uk/series/oxford-solid-state-basics" target="_blank" rel="noopener noreferrer">Oxford Podcasts Portal</a>
+19. **University of Oxford** -> The Oxford Solid State Basics (Steven H. Simon -> Crystal Lattices, Band Theory, Phonons, Semiconductors) | `🎥 Full Video` | <a href="https://podcasts.ox.ac.uk/series/oxford-solid-state-basics" target="_blank" rel="noopener noreferrer">Oxford Podcasts Portal</a> | <a href="https://www.youtube.com/playlist?list=PLhcK7dC80eQ1L46vP7Y6Vw3j_PqfXb-lY" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-20. **Cambridge University** -> Condensed Matter Physics & Many-Body Theory (David Tong) | `🎥 Full Video` | <a href="https://www.damtp.cam.ac.uk/user/tong/solidstate.html" target="_blank" rel="noopener noreferrer">Tong Condensed Matter</a>
+20. **Cambridge University** -> Condensed Matter Physics & Many-Body Theory (David Tong -> Landau Fermi Liquid Theory, BCS Superconductivity) | `📄 Complete Lecture Notes & Research Monographs` | <a href="https://www.damtp.cam.ac.uk/user/tong/solidstate.html" target="_blank" rel="noopener noreferrer">Tong Condensed Matter</a>
    *(Mastery Benchmark Note: MIT 8.511 Theory of Solids I is notes-only; David Tong at Cambridge provides the complete video masterclass).*
 
 21. **MIT 8.512** -> Theory of Solids II: Advanced Solid State Physics & Superconductivity (Graduate -> Patrick Lee -> Green's Functions, BCS Superconductivity, Strongly Correlated Electrons) | <a href="https://ocw.mit.edu/courses/8-512-theory-of-solids-ii-spring-2009/" target="_blank" rel="noopener noreferrer">OCW Page</a>
@@ -285,29 +285,29 @@ Covering classical mechanics, quantum theory, statistical mechanics, general rel
 
 ### Term 7 (Senior Fall): Graduate General Relativity, Quantum Field Theory I & Particle Physics Standard Model (5 Subjects)
 
-26. **Stanford University** -> Theoretical Minimum: Particle Physics & The Standard Model (Leonard Susskind) | `🎥 Full Video` | <a href="https://theoreticalminimum.com/courses/particle-physics-1-basic-concepts" target="_blank" rel="noopener noreferrer">Stanford Theoretical Minimum Portal</a>
+26. **Stanford University** -> Theoretical Minimum: Particle Physics & The Standard Model (Leonard Susskind) | `🎥 Full Video` | <a href="https://theoreticalminimum.com/courses/particle-physics-1-basic-concepts" target="_blank" rel="noopener noreferrer">Stanford Theoretical Minimum Portal</a> | <a href="https://www.youtube.com/playlist?list=PL9YY-u_YWqQSSCltKKjimXhISmTUsAOuO" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
    *(Mastery Benchmark Note: MIT 8.701 is notes-only; Susskind provides full-video lectures).*
 
 27. **Cambridge University / CERN** -> Electroweak Theory & The Standard Model (David Tong & John Ellis -> Gauge Invariance, Higgs Mechanism) | `🎥 Full Video & Comprehensive Notes` | <a href="https://davidtong.org/teaching/particle-physics/" target="_blank" rel="noopener noreferrer">David Tong Particle Physics Course</a> | <a href="https://www.youtube.com/watch?v=zNVQfWC_evg" target="_blank" rel="noopener noreferrer">David Tong Quantum Fields Masterclass (YouTube)</a>
    *(Mastery Benchmark Note: MIT 8.841 is notes-only; CERN provides the complete video lecture series).*
 
-28. **Perimeter Institute for Theoretical Physics (PSI)** -> Effective Field Theory (Cliff Burgess) | `🎥 Full Video` | <a href="https://pirsa.org/C14016" target="_blank" rel="noopener noreferrer">Perimeter PSI Effective Field Theory Course</a>
+28. **Perimeter Institute for Theoretical Physics (PSI)** -> Effective Field Theory & Wilsonian Renormalization (Cliff Burgess) | `🎥 PIRSA Graduate Video Lectures` | <a href="https://www.perimeterinstitute.ca/training/psi-masters-program" target="_blank" rel="noopener noreferrer">Perimeter PSI Effective Field Theory Course</a> | <a href="https://pirsa.org/C13032" target="_blank" rel="noopener noreferrer">PIRSA Master Video Archive</a>
    *(Mastery Benchmark Note: MIT 8.851 is notes-only; Perimeter Institute provides full video lectures).*
 
-29. **Stanford University** -> Theoretical Minimum: String Theory and Holographic Duality (Leonard Susskind) | `🎥 Full Video` | <a href="https://theoreticalminimum.com/courses/string-theory" target="_blank" rel="noopener noreferrer">Stanford Theoretical Minimum Portal</a>
+29. **Stanford University** -> Theoretical Minimum: String Theory and Holographic Duality (Leonard Susskind -> Strings, Branes, AdS/CFT) | `🎥 Full Video` | <a href="https://theoreticalminimum.com/courses/string-theory" target="_blank" rel="noopener noreferrer">Stanford Theoretical Minimum Portal</a> | <a href="https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-30. **Cambridge University** -> Advanced Quantum Field Theory & Gauge Theory (David Skinner & David Tong) | `🎥 Full Video & Lecture Notes` | <a href="https://davidtong.org/teaching/quantum-field-theory/" target="_blank" rel="noopener noreferrer">David Tong QFT Course</a> | <a href="http://www.damtp.cam.ac.uk/user/dbs26/AQFT.html" target="_blank" rel="noopener noreferrer">Cambridge DAMTP Advanced QFT Notes</a>
+30. **Cambridge University** -> Advanced Quantum Field Theory & Gauge Theory (David Tong -> Non-Abelian Gauge Fields, Instantons, Solitons) | `📄 Complete Lecture Notes & Advanced Problem Sets` | <a href="https://www.damtp.cam.ac.uk/user/tong/gaugetheory.html" target="_blank" rel="noopener noreferrer">David Tong QFT Course</a> | <a href="https://www.damtp.cam.ac.uk/user/tong/aqft.html" target="_blank" rel="noopener noreferrer">Cambridge DAMTP Advanced QFT Notes</a>
    *(Mastery Benchmark Note: Replaces broken PIRSA archive with official Cambridge DAMTP course portal and notes).*
 
 ### Term 8 (Senior Spring): Electroweak Theory, Advanced QFT / Gauge Theory, Effective Field Theory, String Theory & Research Colloquia (5 Subjects)
 
-31. **Cambridge University** -> Advanced General Relativity & Black Holes (David Tong) | `🎥 Full Video` | <a href="https://davidtong.org/teaching/general-relativity/" target="_blank" rel="noopener noreferrer">Tong Relativity</a>
+31. **Cambridge University** -> Advanced General Relativity & Black Holes (David Tong -> Penrose Diagrams, Kerr Metric, Hawking Radiation) | `📄 Complete Lecture Notes & Problem Sets` | <a href="https://www.damtp.cam.ac.uk/user/tong/gr.html" target="_blank" rel="noopener noreferrer">Tong Relativity</a>
 
-32. **Oxford University** -> Advanced Quantum Mechanics (James Binney) | `🎥 Full Video` | <a href="https://podcasts.ox.ac.uk/series/quantum-mechanics" target="_blank" rel="noopener noreferrer">Oxford Podcasts Quantum Mechanics</a> | <a href="http://www-thphys.physics.ox.ac.uk/people/JamesBinney/lectures.html" target="_blank" rel="noopener noreferrer">Prof. Binney Course Notes & Lectures</a>
+32. **Oxford University** -> Advanced Quantum Mechanics (James Binney) | `🎥 Full Video` | <a href="https://podcasts.ox.ac.uk/series/quantum-mechanics" target="_blank" rel="noopener noreferrer">Oxford Podcasts Quantum Mechanics</a> | <a href="https://www.youtube.com/playlist?list=PLDAjb_zu5aoGdOJY3Hsagh04dJ-J2lKqv" target="_blank" rel="noopener noreferrer">YouTube Playlist</a> | <a href="https://www-thphys.physics.ox.ac.uk/people/JamesBinney/qb.pdf" target="_blank" rel="noopener noreferrer">Prof. Binney Course Notes & Lectures</a>
 
-33. **Perimeter Institute for Theoretical Physics (PSI)** -> Explorations in Cosmology (Kendrick Smith) | `🎥 Full Video` | <a href="https://pirsa.org/c19020" target="_blank" rel="noopener noreferrer">Perimeter PSI Explorations in Cosmology Course</a>
+33. **Perimeter Institute for Theoretical Physics (PSI)** -> Explorations in Cosmology: Early Universe, Inflation & CMB (Latham Boyle) | `🎥 PIRSA Graduate Video Lectures` | <a href="https://www.perimeterinstitute.ca/training/psi-masters-program" target="_blank" rel="noopener noreferrer">Perimeter PSI Explorations in Cosmology Course</a> | <a href="https://pirsa.org/C13034" target="_blank" rel="noopener noreferrer">PIRSA Master Video Archive</a>
 
-34. **Stanford University** -> Theoretical Minimum: Cosmology (Leonard Susskind) | `🎥 Full Video` | <a href="https://theoreticalminimum.com/courses/cosmology" target="_blank" rel="noopener noreferrer">Stanford Theoretical Minimum Portal</a>
+34. **Stanford University** -> Theoretical Minimum: Cosmology (Leonard Susskind -> FLRW Metric, Cosmic Inflation, Dark Energy) | `🎥 Full Video` | <a href="https://theoreticalminimum.com/courses/cosmology" target="_blank" rel="noopener noreferrer">Stanford Theoretical Minimum Portal</a> | <a href="https://www.youtube.com/playlist?list=PLvh0vlLitZ7c8Avsn6gUaWX05uD5cedO-" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 35. **Harvard University** -> Theoretical Physics Colloquia & Research Masterclass | `🎥 Full Video Archive` | <a href="https://www.youtube.com/playlist?list=PLYwNda-DMY-Oy5xhG3srl1LE5l8XWHhFs" target="_blank" rel="noopener noreferrer">Harvard University Monday Physics Colloquia Playlist</a>
    *(Mastery Benchmark Note: MIT 8.THU is an unrecorded thesis; Harvard University provides premiere research colloquia).*
@@ -324,23 +324,23 @@ A complete, 4-year curriculum (36 verified subjects) designed to transform you i
 
 ### Term 1 (Freshman Fall): Algorithmic Foundations, Memory Architecture & Discrete Mathematics (4 Subjects)
 
-1. **Harvard CS50** -> Introduction to Computer Science (David Malan -> C pointers, memory allocation, data structures, algorithms) | `🎥 Full Video` | <a href="https://cs50.harvard.edu/x/" target="_blank" rel="noopener noreferrer">Portal</a>
+1. **Harvard CS50** -> Introduction to Computer Science (David Malan -> C pointers, memory allocation, data structures, algorithms) | `🎥 Full Video` | <a href="https://cs50.harvard.edu/x/" target="_blank" rel="noopener noreferrer">Harvard CS50 Portal</a> | <a href="https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-2. **MIT 6.0001 / 6.0002** -> Introduction to Computer Science & Computational Thinking (Python, algorithmic thinking, simulation) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+2. **MIT 6.0001 / 6.0002** -> Introduction to Computer Science & Computational Thinking in Python (Ana Bell, Eric Grimson & John Guttag) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-3. **MIT 6.042J / 18.062J** -> Mathematics for Computer Science (Discrete Math, Logic, Graphs, Induction -> Lehman, Leighton, Meyer) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+3. **MIT 6.042J / 18.062J** -> Mathematics for Computer Science (Discrete Math, Proofs, Graph Theory, Number Theory) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLBnyXcEhKK3CiLSEdsB2zDb3FV0aTb9sG" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-4. **MIT 6.006** -> Introduction to Algorithms (Erik Demaine & Srini Devadas -> Hash tables, BSTs, AVL, Heaps, Dijkstra, Dynamic Programming) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+4. **MIT 6.006** -> Introduction to Algorithms (Erik Demaine & Srini Devadas -> Sorting, Trees, Hashing, Dynamic Programming, Graphs) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 ### Term 2 (Freshman Spring): Data Structures from Scratch, Computer Structures & Core Algorithms (4 Subjects)
 
-5. **MIT 6.046J / 18.410J** -> Design and Analysis of Algorithms (Erik Demaine -> Divide & Conquer, Max Flow / Min Cut, Linear Programming Duality) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+5. **MIT 6.046J / 18.410J** -> Design and Analysis of Algorithms (Erik Demaine -> Divide & Conquer, Amortization, Randomization, Flow, Intractability) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLukgPqkZi5rfIBuZWQAbS0fdNEQKHXGX3" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-6. **MIT 18.404J / 6.045J** -> Theory of Computation (Michael Sipser -> DFAs, Turing Machines, Decidability, Reductions, P vs NP, NP-Completeness) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+6. **MIT 18.404J / 6.045J** -> Theory of Computation (Michael Sipser -> DFAs, Turing Machines, P vs NP, Decidability, Completeness) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-7. **MIT 6.004** -> Computation Structures (Processor Architecture, Logic Gates, ALU, RISC-V Pipelining, Caches) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+7. **MIT 6.004** -> Computation Structures (Processor Architecture, Logic Gates, Pipelines, Virtual Memory, Cache) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-8. **CMU 15-213 / CS:APP** -> Introduction to Computer Systems (Bryant & O'Hallaron -> Assembly, Linking, Virtual Memory, Concurrency, Caches) | `🎥 Full Video` | <a href="https://csapp.cs.cmu.edu/" target="_blank" rel="noopener noreferrer">CMU CS:APP Portal</a>
+8. **CMU 15-213 / CS:APP** -> Introduction to Computer Systems (Bryant & O'Hallaron -> Assembly, C Memory, Linking, Concurrency, Virtual Memory) | `💻 Open Textbook, Code & Bomb/Attack Labs` | <a href="https://csapp.cs.cmu.edu/" target="_blank" rel="noopener noreferrer">CMU CS:APP Portal</a>
 
 ### Term 3 (Sophomore Fall): Computer Systems, Low-Level C/Assembly, Operating Systems & Advanced Algorithms (4 Subjects)
 
@@ -349,45 +349,45 @@ A complete, 4-year curriculum (36 verified subjects) designed to transform you i
 10. **UC Berkeley CS 61B** -> Data Structures and Advanced Programming (Josh Hug -> Build Git from Scratch in Java) | `🎥 Full Video` | <a href="https://sp21.datastructur.es/" target="_blank" rel="noopener noreferrer">CS 61B Portal</a> | <a href="https://www.youtube.com/playlist?list=PL8FaHk7qbOD44CGmkFro1gqxkDl5gIpXB" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
     • *Premier Equivalent (Taught in English / YouTube Available):* **Tsinghua University -> Data Structures and Algorithm Design** (*Prof. Deng Junhui*): <a href="https://www.youtube.com/playlist?list=PLnG3e6Z_BTWWJ99RL7iXew40IP-KtqTe1" target="_blank" rel="noopener noreferrer">Complete YouTube Playlist</a> -> featuring English lecture slides, English subtitles, and the textbook *Data Structures in C++* (Springer).
 
-11. **MIT 6.172** -> Performance Engineering of Software Systems (Charles Leiserson -> Cache-oblivious algorithms, SIMD vectorization, Cilk multithreading) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+11. **MIT 6.172** -> Performance Engineering of Software Systems (Charles Leiserson -> Cache-oblivious algorithms, Vectorization, C/C++ SIMD) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PL013B812FA02B3BAE" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-12. **MIT 6.02** -> Digital Communication Systems (Error Correction, Viterbi Decoding, MAC protocols, Packet Queues, Routing) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+12. **MIT 6.02** -> Digital Communication Systems (Error Correction, Viterbi Decoding, Network Layer Protocols, MAC Protocols) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PL3swII2vlVoU9rJeTFgLTY0evKOSyW6Zt" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 ### Term 4 (Sophomore Spring): OS Kernel Implementation, Computer Architecture, Networking & Theory of Computation (5 Subjects)
 
-13. **Stanford CS 144** -> Introduction to Computer Networking (Keith Winstein -> Build the Sponge TCP/IP stack from scratch in C++) | `🎥 Full Video` | <a href="https://cs144.github.io/" target="_blank" rel="noopener noreferrer">Stanford CS144 Portal</a>
+13. **Stanford CS 144** -> Introduction to Computer Networking (Keith Winstein -> Hands-on Sponge TCP/IP stack from scratch in C++) | `💻 Open Course Portal, C++ Sponge Router Labs & Specs` | <a href="https://cs144.github.io/" target="_blank" rel="noopener noreferrer">Stanford CS144 Portal</a>
 
 14. **CMU 15-445/645** -> Database Systems (Andy Pavlo -> Build the BusTub DBMS in C++: disk storage, buffer pool, B+ tree, execution engine) | `🎥 Full Video` | <a href="https://15445.courses.cs.cmu.edu/" target="_blank" rel="noopener noreferrer">CMU DB Portal</a> | <a href="https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi" target="_blank" rel="noopener noreferrer">CMU 15-445 Full Course Playlist (YouTube)</a>
 
 15. **CMU 18-447 / 15-740** -> Computer Architecture (Onur Mutlu -> DRAM microarchitecture, cache coherence, out-of-order execution, Rowhammer) | `🎥 Full Video` | <a href="https://safari.ethz.ch/architecture/" target="_blank" rel="noopener noreferrer">CMU Architecture Portal</a> | <a href="https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9xidyIgBxUz7xRPS-wisBN" target="_blank" rel="noopener noreferrer">Onur Mutlu Computer Architecture Course Playlist (YouTube)</a>
 
-16. **MIT 6.S081 / 6.828** -> Operating System Engineering (Frans Kaashoek & Robert Morris -> Implement xv6 Unix OS kernel on RISC-V in C) | `🎥 Full Video` | <a href="https://pdos.csail.mit.edu/6.828/" target="_blank" rel="noopener noreferrer">MIT PDOS Portal</a>
+16. **MIT 6.S081 / 6.828** -> Operating System Engineering (Frans Kaashoek & Robert Morris -> Unix xv6 Kernel on RISC-V from Scratch) | `🎥 Full Video` | <a href="https://pdos.csail.mit.edu/6.828/" target="_blank" rel="noopener noreferrer">MIT PDOS Portal</a> | <a href="https://www.youtube.com/playlist?list=PLUznfNKscdcN21PDbG_mcMLdDR2SbWdqx" target="_blank" rel="noopener noreferrer">YouTube Playlist</a> | <a href="https://rcore-os.cn/rCore-Tutorial-Book-v3/index.html" target="_blank" rel="noopener noreferrer">rCore English Tutorial Book (v3)</a> | <a href="https://github.com/rcore-os/rCore-Tutorial-v3" target="_blank" rel="noopener noreferrer">rCore-Tutorial-v3 GitHub</a>
     • *Premier Chinese Equivalent (English Documentation & Code):* **Tsinghua University -> rCore / uCore OS Laboratory** (*Prof. Xiang Yong & Yu Chen*, Tsinghua CS / LearningOS -> implement a full Unix operating system kernel from scratch in **Rust** on 64-bit RISC-V): <a href="https://rcore-os.cn/rCore-Tutorial-Book-v3/" target="_blank" rel="noopener noreferrer">rCore English Tutorial Book (v3)</a> | <a href="https://github.com/rcore-os/rCore-Tutorial-v3" target="_blank" rel="noopener noreferrer">rCore-Tutorial-v3 GitHub</a>.
 
-17. **MIT 6.824 / 6.5840** -> Distributed Systems (Robert Morris -> MapReduce, Raft consensus protocol in Go, fault-tolerant sharded K/V stores) | `🎥 Full Video` | <a href="https://pdos.csail.mit.edu/6.824/" target="_blank" rel="noopener noreferrer">MIT PDOS Portal</a>
+17. **MIT 6.824 / 6.5840** -> Distributed Systems (Robert Morris -> MapReduce, Raft consensus protocol in Go, fault-tolerant sharded K/V stores) | `🎥 Full Video` | <a href="https://pdos.csail.mit.edu/6.824/" target="_blank" rel="noopener noreferrer">MIT PDOS Portal</a> | <a href="https://www.youtube.com/playlist?list=PL4VtY94TBbCx7rQ9r5yc_Tx60RT-hWc45" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 ### Term 5 (Junior Fall): Database System Internals, Optimizing Compilers, Distributed Systems & Systems Security (5 Subjects)
 
-18. **MIT 6.858** -> Computer Systems Security (Nickolai Zeldovich -> Buffer overflows, ROP, sandboxing, side channels, web exploits) | `🎥 Full Video` | <a href="https://css.csail.mit.edu/6.858/" target="_blank" rel="noopener noreferrer">CSS Portal</a>
+18. **MIT 6.858** -> Computer Systems Security (Nickolai Zeldovich -> Buffer overflows, ROP, sandboxing, side channels, web exploits) | `🎥 Full Video` | <a href="https://css.csail.mit.edu/6.858/" target="_blank" rel="noopener noreferrer">MIT CSS Portal</a> | <a href="https://www.youtube.com/playlist?list=PL0-6XbZLO_M0t1le1Wq0te2Ce3HqDowWp" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-19. **Stanford CS 143 / MIT 6.035** -> Compilers & Computer Language Engineering (Alex Aiken -> Lexing, parsing, semantic analysis, SSA form, x86-64 code generation) | `🎥 Full Video` | <a href="https://web.stanford.edu/class/cs143/" target="_blank" rel="noopener noreferrer">Stanford CS143 Portal</a>
+19. **Stanford CS 143 / MIT 6.035** -> Compilers & Computer Language Engineering (Alex Aiken -> Lexing, parsing, semantic analysis, SSA form, x86-64 code generation) | `🎥 Full Video` | <a href="https://web.stanford.edu/class/cs143/" target="_blank" rel="noopener noreferrer">Stanford CS143 Portal</a> | <a href="https://www.youtube.com/playlist?list=PLTsf9UeqkRebOYdw4uqSN0ugRShSmHrzH" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
     • *Premier Chinese Equivalent:* **Shanghai Jiao Tong University (SJTU) ACM Class -> Compiler Engineering** (*Prof. Kai Shen & Yong Yu* -> construct an optimizing compiler from scratch with LLVM backend code generation).
 
-20. **ETH Zurich / CMU** -> Advanced Computer Architecture (Onur Mutlu -> Superscalar, branch prediction, GPUs, processing-in-memory) | `🎥 Full Video` | <a href="https://safari.ethz.ch/architecture/" target="_blank" rel="noopener noreferrer">SAFARI Architecture Portal</a>
+20. **ETH Zurich / CMU** -> Advanced Computer Architecture (Onur Mutlu -> Superscalar, branch prediction, GPUs, processing-in-memory) | `🎥 Full Video` | <a href="https://safari.ethz.ch/architecture/" target="_blank" rel="noopener noreferrer">SAFARI Architecture Portal</a> | <a href="https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9xidyIgBxUz7xRPS-wisBN" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-21. **CMU 15-418 / Stanford CS 149** -> Parallel Computer Architecture and Programming (Kayvon Fatahalian -> Multi-core parallelism, SIMD, CUDA GPU programming) | `🎥 Full Video` | <a href="https://gfxcourses.stanford.edu/cs149" target="_blank" rel="noopener noreferrer">CS149 Portal</a>
+21. **CMU 15-418 / Stanford CS 149** -> Parallel Computer Architecture and Programming (Kayvon Fatahalian -> Multi-core parallelism, SIMD, CUDA GPU programming) | `🎥 Full Video` | <a href="https://gfxcourses.stanford.edu/cs149" target="_blank" rel="noopener noreferrer">Stanford CS149 Portal</a> | <a href="https://www.youtube.com/playlist?list=PLosJChMwPtizq2swoD8DZXc567PJ9YKnn" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-22. **UC Berkeley CS 168** -> Introduction to the Internet: Architecture and Protocols (Sylvia Ratnasamy & Scott Shenker) | `🎥 Full Video` | <a href="https://cs168.io/" target="_blank" rel="noopener noreferrer">CS 168 Portal</a>
+22. **UC Berkeley CS 168** -> Introduction to the Internet: Architecture and Protocols (Sylvia Ratnasamy & Scott Shenker) | `💻 Open Course Notes, Python Routing Projects & Specs` | <a href="https://cs168.io/" target="_blank" rel="noopener noreferrer">Berkeley CS 168 Portal</a>
 
 ### Term 6 (Junior Spring): Advanced Distributed Consensus, Parallel Architecture, Cryptography & Advanced Microarchitecture (5 Subjects)
 
 23. **CMU 15-721** -> Advanced Database Systems (Andy Pavlo -> In-memory OLTP/OLAP databases, vectorized query execution, LLVM JIT compilation, MVCC) | `🎥 Full Video` | <a href="https://15721.courses.cs.cmu.edu/" target="_blank" rel="noopener noreferrer">CMU 15-721 Portal</a> | <a href="https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g" target="_blank" rel="noopener noreferrer">CMU 15-721 Full Course Playlist (YouTube)</a>
 
-24. **UC Berkeley CS 262A** -> Advanced Topics in Computer Systems (Ion Stoica & John Kubiatowicz -> seL4 microkernels, virtualization, distributed storage) | `🎥 Full Video` | <a href="https://cs262a.github.io/" target="_blank" rel="noopener noreferrer">CS262A Portal</a>
+24. **UC Berkeley CS 262A** -> Advanced Topics in Computer Systems (Ion Stoica & John Kubiatowicz -> seL4 microkernels, virtualization, distributed storage) | `📄 Complete Graduate Seminar Reading Archive & Research Papers` | <a href="https://cs262a.github.io/" target="_blank" rel="noopener noreferrer">Berkeley CS 262A Portal</a>
 
-25. **UPenn CIS 500 / DeepSpec Summer School** -> Software Foundations: Formal Verification in Coq (Benjamin Pierce -> Mechanical proof assistants, Hoare logic, verified compilers) | `🎥 Full Video Lectures` | <a href="https://softwarefoundations.cis.upenn.edu/" target="_blank" rel="noopener noreferrer">Software Foundations</a>
+25. **UPenn CIS 500 / DeepSpec Summer School** -> Software Foundations: Formal Verification in Coq (Benjamin Pierce -> Mechanical proof assistants, Hoare logic, verified compilers) | `💻 Open Interactive Coq Textbooks & Proof Exercises` | <a href="https://softwarefoundations.cis.upenn.edu/" target="_blank" rel="noopener noreferrer">Software Foundations Portal</a>
 
-26. **MIT 6.851** -> Advanced Data Structures (Erik Demaine -> Succinct data structures, dynamic trees, link-cut trees, retroactive data structures) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+26. **MIT 6.851** -> Advanced Data Structures (Erik Demaine -> Succinct data structures, dynamic trees, link-cut trees, retroactive data structures) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PL3swII2vlVoWrImUU3e2Nt_qFbG5KK_jE" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 27. **Harvard CS 224** -> Advanced Algorithms (Jelani Nelson -> Streaming algorithms, Johnson-Lindenstrauss, linear programming duality, spectral graphs) | `🎥 Full Video` | <a href="https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf" target="_blank" rel="noopener noreferrer">Harvard CS224 YouTube Playlist</a>
 
@@ -397,20 +397,20 @@ A complete, 4-year curriculum (36 verified subjects) designed to transform you i
 
 29. **University of Cambridge** -> Distributed Systems (Martin Kleppmann -> Vector clocks, Paxos, Raft, Byzantine fault tolerance, CRDTs) | `🎥 Full Video` | <a href="https://martin.kleppmann.com/2020/11/18/distributed-systems-and-elliptic-curves.html" target="_blank" rel="noopener noreferrer">Martin Kleppmann Course Notes & Materials</a> | <a href="https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB" target="_blank" rel="noopener noreferrer">Martin Kleppmann YouTube Playlist</a>
 
-30. **Stanford CS 255** -> Introduction to Cryptography (Dan Boneh -> Zero-Knowledge Proofs, Lattice Cryptography, RSA, AES) | `🎥 Full Video` | <a href="https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/" target="_blank" rel="noopener noreferrer">Stanford Dan Boneh Cryptography Course</a>
+30. **Stanford CS 255** -> Introduction to Cryptography (Dan Boneh -> Zero-Knowledge Proofs, Lattice Cryptography, RSA, AES) | `🎥 Full Video` | <a href="https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/" target="_blank" rel="noopener noreferrer">Stanford Dan Boneh Cryptography Course</a> | <a href="https://www.youtube.com/playlist?list=PL2jrku-ebl3H50FiEPr4erSJiJHURM9BX" target="_blank" rel="noopener noreferrer">YouTube Playlist</a> | <a href="https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/" target="_blank" rel="noopener noreferrer">MIT OCW 6.875 Shafi Goldwasser & Vinod Vaikuntanathan Notes</a>
     *(Mastery Benchmark Note: MIT 6.875 has only partial clips; Dan Boneh at Stanford provides the premier full-video masterclass. Theoretical benchmark notes: <a href="https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/" target="_blank" rel="noopener noreferrer">MIT OCW 6.875 Shafi Goldwasser & Vinod Vaikuntanathan Notes</a>).*
 
-31. **University of Washington / Stanford** -> CSE 461 / CS 244: Advanced Computer Networks (David Wetherall & Keith Winstein -> P4, BBR, QUIC) | `🎥 Full Video` | <a href="https://courses.cs.washington.edu/courses/cse461/" target="_blank" rel="noopener noreferrer">UW Portal</a>
+31. **University of Washington / Stanford** -> CSE 461 / CS 244: Advanced Computer Networks (David Wetherall & Keith Winstein -> P4, BBR, QUIC) | `📄 Complete Lecture Notes & Networking Labs` | <a href="https://courses.cs.washington.edu/courses/cse461/" target="_blank" rel="noopener noreferrer">UW CSE 461 Portal</a>
 
-32. **Stanford CS 243** -> Advanced Compilers & Program Analysis (Monica Lam -> Dataflow lattices, alias analysis, loop optimization) | `🎥 Full Video` | <a href="https://suif.stanford.edu/~courses/cs243/" target="_blank" rel="noopener noreferrer">Stanford CS243 Open Course Materials</a>
+32. **Stanford CS 243** -> Advanced Compilers & Program Analysis (Monica Lam -> Dataflow lattices, alias analysis, loop optimization) | `📄 Complete Lecture Slides & Optimization Assignments` | <a href="https://suif.stanford.edu/~courses/cs243/" target="_blank" rel="noopener noreferrer">Stanford CS243 Portal</a>
 
 ### Term 8 (Senior Spring): Advanced Systems Topics, Graduate Computational Complexity, Advanced Networks, Quantum Computing & Embedded Systems Capstone (4 Subjects)
 
-33. **UC Berkeley EECS 151 / CS 150** -> Digital Design and Integrated Circuits (John Wawrzynek -> RISC-V FPGA & ASIC in Verilog) | `🎥 Full Video` | <a href="https://inst.eecs.berkeley.edu/~eecs151/" target="_blank" rel="noopener noreferrer">Berkeley EECS151 Portal</a>
+33. **UC Berkeley EECS 151 / CS 150** -> Digital Design and Integrated Circuits (John Wawrzynek -> RISC-V FPGA & ASIC in Verilog) | `💻 Open Course Notes, Verilog Labs & FPGA Specs` | <a href="https://inst.eecs.berkeley.edu/~eecs151/" target="_blank" rel="noopener noreferrer">Berkeley EECS151 Portal</a>
 
-34. **Carnegie Mellon University (CMU) 15-859BB** -> Quantum Computation (Ryan O'Donnell -> Qubits, Shor's factoring, Grover's search, error correction) | `🎥 Full Video` | <a href="https://www.cs.cmu.edu/~odonnell/quantum18/" target="_blank" rel="noopener noreferrer">CMU Quantum Portal</a>
+34. **Carnegie Mellon University (CMU) 15-859BB** -> Quantum Computation (Ryan O'Donnell -> Qubits, Shor's factoring, Grover's search, error correction) | `🎥 Full Video` | <a href="https://www.cs.cmu.edu/~odonnell/quantum18/" target="_blank" rel="noopener noreferrer">CMU Quantum Portal</a> | <a href="https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-35. **MIT 18.S191** -> Introduction to Computational Thinking with Julia (Grant Sanderson / 3Blue1Brown -> Numerical algorithms, ray tracing, graph algorithms) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+35. **MIT 18.S191** -> Introduction to Computational Thinking with Julia (Grant Sanderson / 3Blue1Brown -> Numerical algorithms, ray tracing, graph algorithms) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 36. **UC Berkeley EECS 149 & ACM Turing Masterclass** -> Embedded Systems Capstone & Modern Computer Architecture (Edward Lee, Sanjit Seshia, David Patterson) | `🎥 Full Video` | <a href="https://ptolemy.berkeley.edu/projects/chess/eecs149/" target="_blank" rel="noopener noreferrer">Berkeley EECS 149 Course & Lab Projects</a> | <a href="https://www.youtube.com/watch?v=3LVeEjsn8Ts" target="_blank" rel="noopener noreferrer">David Patterson ACM Turing Award Lecture</a>
    *(Mastery Benchmark Note: Replaces unrecorded senior theses with Berkeley's premier embedded systems capstone laboratory and Patterson's definitive Turing lecture on modern systems architecture).*
@@ -431,17 +431,17 @@ Covering analog and digital circuits, physical devices, electromagnetics, feedba
 
 2. **MIT 6.003** -> Signals and Systems (Dennis Freeman) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/" target="_blank" rel="noopener noreferrer">OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-3. **MIT 6.012** -> Microelectronic Devices and Circuits (Judy Hoyt) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2009/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+3. **MIT 6.012** -> Microelectronic Devices and Circuits (Judy Hoyt) | `📄 Complete Lecture Notes, CAD Design Labs & Problem Sets` | <a href="https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2009/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a>
 
 4. **UC Berkeley EE 140 / UCLA** -> Analog Integrated Circuits (Prof. Robert Brodersen & Behzad Razavi -> Op-Amps, Feedback, Noise) | `🎥 Full Video` | <a href="https://inst.eecs.berkeley.edu/~ee140/" target="_blank" rel="noopener noreferrer">Berkeley EE140 Portal</a> | <a href="https://www.youtube.com/playlist?list=PLk8KRj3P7Tc5Tfcuvp5Yt_0he-SpkXBM0" target="_blank" rel="noopener noreferrer">UC Berkeley EE140 Playlist</a> | <a href="https://www.youtube.com/watch?v=uLkDCWlCFKw" target="_blank" rel="noopener noreferrer">Behzad Razavi Analog CMOS Masterclass</a>
 
 ### Term 2 (Freshman Spring): Signals & Systems, Information Devices & Microelectronic Devices (4 Subjects)
 
-5. **MIT 6.02** -> Digital Communication Systems (Hari Balakrishnan) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+5. **MIT 6.02** -> Digital Communication Systems (Hari Balakrishnan) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PL3swII2vlVoU9rJeTFgLTY0evKOSyW6Zt" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-6. **MIT 6.004** -> Computation Structures (CPU Design & Digital Logic) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+6. **MIT 6.004** -> Computation Structures (CPU Design & Digital Logic) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-7. **UC Berkeley EECS 151 / CS 150** -> Digital Design and Integrated Circuits (John Wawrzynek -> FPGA & ASIC in Verilog) | `🎥 Full Video` | <a href="https://inst.eecs.berkeley.edu/~eecs151/" target="_blank" rel="noopener noreferrer">Berkeley EECS151 Portal</a>
+7. **UC Berkeley EECS 151 / CS 150** -> Digital Design and Integrated Circuits (John Wawrzynek -> FPGA & ASIC in Verilog) | `💻 Open Course Notes, Verilog Labs & FPGA Specs` | <a href="https://inst.eecs.berkeley.edu/~eecs151/" target="_blank" rel="noopener noreferrer">Berkeley EECS151 Portal</a>
 
 8. **Cornell University -> ECE 4760** -> Designing with Microcontrollers (Bruce Land -> PIC32/RP2040 Embedded Architecture) | `🎥 Full Video` | <a href="https://people.ece.cornell.edu/land/courses/ece4760/" target="_blank" rel="noopener noreferrer">Cornell ECE 4760</a> | <a href="https://www.youtube.com/playlist?list=PLKcjQ_UFkrd4z2qoFuJ1jtVhCSuxxCTpk" target="_blank" rel="noopener noreferrer">Bruce Land PIC32 Lecture Playlist</a>
    *(Mastery Benchmark Note: MIT 6.115 Microcomputer Project Lab is notes-only; Bruce Land at Cornell is the global video benchmark for embedded microcontroller design).*
@@ -454,7 +454,7 @@ Covering analog and digital circuits, physical devices, electromagnetics, feedba
 
 11. **MIT 6.334 / 6.622** -> Power Electronics (David Perreault -> Switched-Mode DC-DC Converters, Inverters, Magnetics, Feedback Control) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-334-power-electronics-spring-2007/" target="_blank" rel="noopener noreferrer">MIT OCW 6.334 Course Portal</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62UTc77mJoubhDELSC8lfR0" target="_blank" rel="noopener noreferrer">MIT OCW 6.622 YouTube Playlist</a>
 
-12. **Stanford University -> EE 278** -> Introduction to Statistical Signal Processing & Probabilistic Systems | `🎥 Full Video` | <a href="https://online.stanford.edu/courses/ee278-introduction-statistical-signal-processing" target="_blank" rel="noopener noreferrer">Stanford Online</a>
+12. **Stanford University -> EE 278** -> Introduction to Statistical Signal Processing & Probabilistic Systems | `💻 Official Course Syllabus, Problem Sets & Lecture Archives` | <a href="https://online.stanford.edu/courses/ee278-introduction-statistical-signal-processing" target="_blank" rel="noopener noreferrer">Stanford Online Portal</a>
    *(Mastery Benchmark Note: MIT 6.011 is notes-only; Stanford EE 278 provides complete video lectures on stochastic signal processing).*
 
 ### Term 4 (Sophomore Spring): Linear Dynamical Systems, Digital Signal Processing, Power Electronics & Electromagnetics (4 Subjects)
@@ -463,56 +463,56 @@ Covering analog and digital circuits, physical devices, electromagnetics, feedba
 
 14. **MIT 3.091SC** -> Solid-State Chemistry (Semiconductor Crystal Physics) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/" target="_blank" rel="noopener noreferrer">OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PL36EC6A6180271B0F" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-15. **UC Berkeley EE 16A** -> Designing Information Devices and Systems I | `🎥 Full Video` | <a href="https://eecs16a.org/" target="_blank" rel="noopener noreferrer">Berkeley EE16A</a>
+15. **UC Berkeley EE 16A** -> Designing Information Devices and Systems I | `💻 Open Course Notes, Python Lab Notebooks & Problem Sets` | <a href="https://eecs16a.org/" target="_blank" rel="noopener noreferrer">Berkeley EE16A Portal</a>
 
-16. **UC Berkeley EE 16B** -> Designing Information Devices and Systems II | `🎥 Full Video` | <a href="https://eecs16b.org/" target="_blank" rel="noopener noreferrer">Berkeley EE16B</a>
+16. **UC Berkeley EE 16B** -> Designing Information Devices and Systems II | `💻 Open Course Notes, Hardware Robotics Labs & Problem Sets` | <a href="https://eecs16b.org/" target="_blank" rel="noopener noreferrer">Berkeley EE16B Portal</a>
 
 ### Term 5 (Junior Fall): Advanced Microelectronic Devices, Convex Optimization & Embedded OS Kernels (4 Subjects)
 
-17. **UC Berkeley EE 130 / Purdue NanoHUB** -> Advanced Microelectronic Devices (Chenming Hu / Mark Lundstrom -> MOSFET Physics, FinFETs) | `🎥 Full Video` | <a href="https://nanohub.org/courses/NT" target="_blank" rel="noopener noreferrer">nanoHUB Nanoscale Transistors</a> | <a href="https://nanohub.org/courses/tfun" target="_blank" rel="noopener noreferrer">nanoHUB Fundamentals of Transistors</a>
+17. **UC Berkeley EE 130 / Purdue NanoHUB** -> Advanced Microelectronic Devices (Chenming Hu / Mark Lundstrom -> MOSFET Physics, FinFETs) | `🎥 nanoHUB Online Video Course` | <a href="https://nanohub.org/courses/NT" target="_blank" rel="noopener noreferrer">nanoHUB Nanoscale Transistors</a> | <a href="https://nanohub.org/courses/tfun" target="_blank" rel="noopener noreferrer">nanoHUB Fundamentals of Transistors</a>
    *(Mastery Benchmark Note: MIT 6.720J is notes-only; Lundstrom and Chenming Hu at Berkeley provide the world's premier device physics video lectures).*
 
-18. **Purdue University** -> Fundamentals of Nanoelectronics: Basic Principles & Quantum Transport (Supriyo Datta) | `🎥 Full Video` | <a href="https://nanohub.org/courses/fon1" target="_blank" rel="noopener noreferrer">nanoHUB-U Part A: Basic Concepts</a> | <a href="https://nanohub.org/courses/fon2" target="_blank" rel="noopener noreferrer">nanoHUB-U Part B: Quantum Transport</a>
+18. **Purdue University** -> Fundamentals of Nanoelectronics: Basic Principles & Quantum Transport (Supriyo Datta) | `🎥 nanoHUB Online Video Course` | <a href="https://nanohub.org/courses/fon1" target="_blank" rel="noopener noreferrer">nanoHUB-U Part A: Basic Concepts</a> | <a href="https://nanohub.org/courses/fon2" target="_blank" rel="noopener noreferrer">nanoHUB-U Part B: Quantum Transport</a>
    *(Mastery Benchmark Note: MIT 6.025J is notes-only; Supriyo Datta is the undisputed global video authority on non-equilibrium Green's functions and nanoelectronics).*
 
 19. **Stanford University -> EE 364A** -> Convex Optimization (Stephen Boyd -> Duality, KKT Conditions, Interior Point Methods) | `🎥 Full Video` | <a href="https://see.stanford.edu/Course/EE364A" target="_blank" rel="noopener noreferrer">Stanford EE364A</a> | <a href="https://www.youtube.com/playlist?list=PL3940DD956CDF0622" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-20. **Stanford University -> EE 376A** -> Information Theory (Thomas Cover & Tsachy Weissman -> Shannon Capacity, Huffman, Entropy) | `🎥 Full Video` | <a href="https://web.stanford.edu/class/ee376a/" target="_blank" rel="noopener noreferrer">Stanford EE376A</a>
+20. **Stanford University -> EE 376A** -> Information Theory (Thomas Cover & Tsachy Weissman -> Shannon Capacity, Huffman, Entropy) | `📄 Complete Lecture Notes & Problem Sets` | <a href="https://web.stanford.edu/class/ee376a/" target="_blank" rel="noopener noreferrer">Stanford EE376A Portal</a>
 
 ### Term 6 (Junior Spring): Nanoelectronics, Information Theory, MEMS Design & IC Cleanroom Fabrication (4 Subjects)
 
-21. **MIT 6.013 / 8.02** -> Electromagnetics and Applications (David Staelin -> Maxwell Radiation & Wave Propagation) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-013-electromagnetics-and-applications-fall-2005/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+21. **MIT 6.013 / 8.02** -> Electromagnetics and Applications (David Staelin -> Maxwell Radiation & Wave Propagation) | `📄 Complete Lecture Notes, Applets & Problem Sets` | <a href="https://ocw.mit.edu/courses/6-013-electromagnetics-and-applications-fall-2005/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a>
    *(Mastery Benchmark Note: MIT 6.641 is notes-only; Staelin's 6.013 provides complete video lectures).*
 
-22. **UC Berkeley EE 247B / Stanford ENGR 240** -> Introduction to MEMS Design (Clark Nguyen) | `🎥 Full Video` | <a href="https://inst.eecs.berkeley.edu/~ee247b/" target="_blank" rel="noopener noreferrer">Berkeley EE247B</a>
+22. **UC Berkeley EE 247B / Stanford ENGR 240** -> Introduction to MEMS Design (Clark Nguyen) | `📄 Complete Course Slides & Design Assignments` | <a href="https://inst.eecs.berkeley.edu/~ee247b/" target="_blank" rel="noopener noreferrer">Berkeley EE247B Portal</a>
    *(Mastery Benchmark Note: MIT 6.777J is notes-only; Clark Nguyen at Berkeley provides full video lectures).*
 
 23. **MIT 8.421 / 8.422** -> Atomic and Optical Physics I & II: Lasers & Quantum Electronics (Nobel Laureate Wolfgang Ketterle) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/8-421-atomic-and-optical-physics-i-spring-2014/" target="_blank" rel="noopener noreferrer">MIT OCW 8.421 Course Page</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62FPGcyFJkzhqq9c5cHCK32" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
    *(Mastery Benchmark Note: MIT 6.974 is notes-only; Nobel Laureate Wolfgang Ketterle's 8.421 provides full video recordings on lasers and photonics).*
 
-24. **UC Berkeley EE 121 / Stanford EE 379** -> Digital Communication Systems: Modulation & Constellations (David Tse) | `🎥 Full Video` | <a href="https://inst.eecs.berkeley.edu/~ee121/" target="_blank" rel="noopener noreferrer">Berkeley EE121</a>
+24. **UC Berkeley EE 121 / Stanford EE 379** -> Digital Communication Systems: Modulation & Constellations (David Tse) | `📄 Complete Lecture Notes & Problem Sets` | <a href="https://inst.eecs.berkeley.edu/~ee121/" target="_blank" rel="noopener noreferrer">Berkeley EE121 Portal</a>
    *(Mastery Benchmark Note: MIT 6.450 is notes-only; David Tse provides the full video masterclass).*
 
 ### Term 7 (Senior Fall): Lasers & Quantum Electronics, Digital Communications, Feedback Control & Compilers (4 Subjects)
 
-25. **Stanford University -> EE 376B** -> Network Information Theory (Abbas El Gamal -> Multi-User Channel Capacity) | `🎥 Full Video` | <a href="https://web.stanford.edu/class/ee376b/" target="_blank" rel="noopener noreferrer">Stanford EE376B</a>
+25. **Stanford University -> EE 376B** -> Network Information Theory (Abbas El Gamal -> Multi-User Channel Capacity) | `📄 Complete Course Syllabus & Monograph Readings` | <a href="https://web.stanford.edu/class/ee376b/" target="_blank" rel="noopener noreferrer">Stanford EE376B Portal</a>
    *(Mastery Benchmark Note: MIT 6.451 is notes-only; Abbas El Gamal provides complete video lectures).*
 
-26. **MIT 6.241J / Stanford EE 263** -> Dynamic Systems & Feedback Control (Munther Dahleh & Stephen Boyd -> State-Space, Controllability, Observers) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/" target="_blank" rel="noopener noreferrer">MIT OCW 6.241J Course Portal</a> | <a href="https://see.stanford.edu/Course/EE263" target="_blank" rel="noopener noreferrer">Stanford EE263 Portal</a>
+26. **MIT 6.241J / Stanford EE 263** -> Dynamic Systems & Feedback Control (Munther Dahleh & Stephen Boyd -> State-Space, Controllability, Observers) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/" target="_blank" rel="noopener noreferrer">MIT OCW 6.241J Course Portal</a> | <a href="https://www.youtube.com/playlist?list=PLzvEnvQ9sS15pwCo8DYnJ-gArIkKZwJjF" target="_blank" rel="noopener noreferrer">Stanford EE263 YouTube Playlist</a>
    *(Mastery Benchmark Note: Replaces broken Caltech wiki with official MIT OCW 6.241J and Stanford EE 263 portals).*
 
-27. **Stanford CS 143 / MIT 6.035** -> Compilers & Computer Language Engineering (Alex Aiken) | `🎥 Full Video` | <a href="https://web.stanford.edu/class/cs143/" target="_blank" rel="noopener noreferrer">Stanford CS143</a>
+27. **Stanford CS 143 / MIT 6.035** -> Compilers & Computer Language Engineering (Alex Aiken) | `🎥 Full Video` | <a href="https://web.stanford.edu/class/cs143/" target="_blank" rel="noopener noreferrer">Stanford CS143 Portal</a> | <a href="https://www.youtube.com/playlist?list=PLTsf9UeqkRebOYdw4uqSN0ugRShSmHrzH" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 28. **MIT 6.152J** -> Micro/Nano Processing Technology (Integrated Circuit Fabrication Laboratory) | `📄 Complete Lecture Notes & Fabrication Manuals` | <a href="https://ocw.mit.edu/courses/6-152j-micro-nano-processing-technology-fall-2005/" target="_blank" rel="noopener noreferrer">MIT OCW 6.152J Course Page</a>
    *(Mastery Benchmark Note: MIT 6.780 is notes-only; MIT 6.152J provides cleanroom fabrication manuals on lithography, etching, and thin film deposition).*
 
 ### Term 8 (Senior Spring): Network Information Theory, Advanced Computer Architecture, Advanced Wave Propagation & Microcontroller Capstone (4 Subjects)
 
-29. **MIT 6.S081 / 6.828** -> Operating System Engineering (Embedded Devices & Hardware) | `🎥 Full Video` | <a href="https://pdos.csail.mit.edu/6.828/" target="_blank" rel="noopener noreferrer">PDOS Portal</a>
+29. **MIT 6.S081 / 6.828** -> Operating System Engineering (Embedded Devices & Hardware) | `🎥 Full Video` | <a href="https://pdos.csail.mit.edu/6.828/" target="_blank" rel="noopener noreferrer">MIT PDOS Portal</a> | <a href="https://www.youtube.com/playlist?list=PLUznfNKscdcN21PDbG_mcMLdDR2SbWdqx" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-30. **ETH Zurich / CMU** -> Advanced Computer Architecture (Onur Mutlu) | `🎥 Full Video` | <a href="https://safari.ethz.ch/architecture/" target="_blank" rel="noopener noreferrer">SAFARI Architecture Portal</a>
+30. **ETH Zurich / CMU** -> Advanced Computer Architecture (Onur Mutlu) | `🎥 Full Video` | <a href="https://safari.ethz.ch/architecture/" target="_blank" rel="noopener noreferrer">SAFARI Architecture Portal</a> | <a href="https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9xidyIgBxUz7xRPS-wisBN" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-31. **MIT 6.006** -> Introduction to Algorithms (Essential for Digital Hardware Engineers) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+31. **MIT 6.006** -> Introduction to Algorithms (Essential for Digital Hardware Engineers) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 32. **Cornell University -> ECE 4760** -> Microcontroller & Embedded Hardware Design Capstone (Prof. Bruce Land) | `🎥 Full Video & Hardware Lab Documentation` | <a href="https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/" target="_blank" rel="noopener noreferrer">Cornell ECE 4760 Final Projects Archive</a> | <a href="https://www.youtube.com/playlist?list=PLKcjQ_UFkrd4z2qoFuJ1jtVhCSuxxCTpk" target="_blank" rel="noopener noreferrer">Bruce Land PIC32 Lecture Series (YouTube)</a> | <a href="https://ece4760.github.io/" target="_blank" rel="noopener noreferrer">Cornell ECE 4760 Lab Manual</a>
    *(Mastery Benchmark Note: Features over 200 fully documented open-source hardware/software student capstone engineering projects with complete circuit schematics, board layouts, C code, and video demonstrations).*
@@ -525,19 +525,19 @@ Covering radiation interactions, nuclear fission reactor kinetics, thermal-hydra
 
 ### Term 1 (Freshman Fall): Nuclear Engineering Principles, Radiation Fundamentals & Thermodynamics (4 Subjects)
 
-1. **MIT 22.01** -> Introduction to Nuclear Engineering and Ionizing Radiation (Michael Short) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+1. **MIT 22.01** -> Introduction to Nuclear Engineering and Ionizing Radiation (Michael Short) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63YwKIMA9K08FFvdeBEl6Lo" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-2. **TU Delft** -> Understanding Nuclear Energy: Science, Systems and Society (Jan Leen Kloosterman) | `🎥 Video Course` | <a href="https://ocw.tudelft.nl/courses/understanding-nuclear-energy/" target="_blank" rel="noopener noreferrer">TU Delft Nuclear Course Page</a>
+2. **TU Delft** -> Understanding Nuclear Energy: Science, Systems and Society (Jan Leen Kloosterman) | `📄 Complete Course Materials, Lecture Modules & Assignments` | <a href="https://ocw.tudelft.nl/courses/understanding-nuclear-energy/" target="_blank" rel="noopener noreferrer">TU Delft Nuclear Course Page</a>
    *(Mastery Benchmark Note: MIT 22.011 is notes-only; TU Delft provides full-video lectures on reactor systems and society).*
 
 3. **UC Berkeley -> NucEng 101** -> Nuclear Reactions and Radiation (Jasmina Vujic -> Cross Sections, Decay Schemes) | `📄 Course Syllabus & Notes` | <a href="https://nuc.berkeley.edu/courses/ne-101/" target="_blank" rel="noopener noreferrer">Berkeley NE 101 Course Page</a>
    *(Mastery Benchmark Note: MIT 22.02 is notes-only; UC Berkeley provides detailed syllabi, problem sets, and lecture slides).*
 
-4. **TU Delft** -> Reactor Physics & Core Neutronics (Jan Leen Kloosterman -> Diffusion Theory, Six-Factor Formula) | `🎥 Full Video` | <a href="https://ocw.tudelft.nl/courses/understanding-nuclear-energy/" target="_blank" rel="noopener noreferrer">TU Delft Understanding Nuclear Energy Course</a>
+4. **TU Delft** -> Reactor Physics & Core Neutronics (Jan Leen Kloosterman -> Diffusion Theory, Six-Factor Formula) | `📄 Complete Reactor Physics Modules & Lecture Documents` | <a href="https://ocw.tudelft.nl/courses/understanding-nuclear-energy/" target="_blank" rel="noopener noreferrer">TU Delft Understanding Nuclear Energy Course</a>
 
 ### Term 2 (Freshman Spring): Nuclear Reactions, Quantum Foundations, Nuclear Materials & Societal Impact (4 Subjects)
 
-5. **MIT 22.01 / Michael Short** -> Radiation Damage in Reactor Materials Video Masterclass | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/" target="_blank" rel="noopener noreferrer">MIT OCW Course Portal</a>
+5. **MIT 22.01 / Michael Short** -> Radiation Damage in Reactor Materials Video Masterclass | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/" target="_blank" rel="noopener noreferrer">MIT OCW Course Portal</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63YwKIMA9K08FFvdeBEl6Lo" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
    *(Mastery Benchmark Note: MIT 22.012 is notes-only; Prof. Short's recorded masterclasses provide full video coverage of radiation swelling and embrittlement).*
 
 6. **MIT 22.312** -> Engineering of Nuclear Reactors: Thermal Hydraulics & Safety (Jacopo Buongiorno -> Single & Two-Phase Flow, Critical Heat Flux) | `📄 Complete Lecture Notes & Problem Sets` | <a href="https://ocw.mit.edu/courses/22-312-engineering-of-nuclear-reactors-fall-2015/" target="_blank" rel="noopener noreferrer">OCW Page</a>
@@ -552,9 +552,9 @@ Covering radiation interactions, nuclear fission reactor kinetics, thermal-hydra
 9. **UC Berkeley EE 140 / MIT 6.002** -> Analog Instrumentation Electronics for Nuclear Sensors | `🎥 Full Video` | <a href="https://www.youtube.com/playlist?list=PLk8KRj3P7Tc5Tfcuvp5Yt_0he-SpkXBM0" target="_blank" rel="noopener noreferrer">UC Berkeley EE140 Playlist</a> | <a href="https://inst.eecs.berkeley.edu/~ee140/" target="_blank" rel="noopener noreferrer">Berkeley EE140 Course Portal</a>
    *(Mastery Benchmark Note: MIT 22.071J is notes-only; Berkeley EE140 provides the full video masterclass).*
 
-10. **MIT 22.04J** -> Social Problems of Nuclear Energy (Scott Kemp -> Non-Proliferation, Nuclear Security) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/22-04j-social-problems-of-nuclear-energy-fall-2025/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+10. **MIT 22.04J** -> Social Problems of Nuclear Energy (Scott Kemp -> Non-Proliferation, Nuclear Security) | `📄 Complete Course Syllabus, Reading Archive & Discussion Topics` | <a href="https://ocw.mit.edu/courses/22-04j-social-problems-of-nuclear-energy-fall-2025/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a>
 
-11. **MIT 5.60** -> Thermodynamics & Kinetics (Robert Field & Moungi Bawendi -> Enthalpy, Free Energy, Phase Equilibria) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+11. **MIT 5.60** -> Thermodynamics & Kinetics (Robert Field & Moungi Bawendi -> Enthalpy, Free Energy, Phase Equilibria) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PL0E677711BDDF91E9" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 12. **MIT 2.51** -> Intermediate Heat and Mass Transfer (Graduate -> Conduction, Convection, Phase Change & Boiling Heat Transfer) | `📄 Complete Lecture Notes & Assignments` | <a href="https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/" target="_blank" rel="noopener noreferrer">OCW Page</a>
 
@@ -562,9 +562,9 @@ Covering radiation interactions, nuclear fission reactor kinetics, thermal-hydra
 
 13. **MIT 8.04** -> Quantum Physics I (Barton Zwiebach -> Essential for Nuclear Models) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/" target="_blank" rel="noopener noreferrer">OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G" target="_blank" rel="noopener noreferrer">MIT 8.04 Full Video Playlist</a>
 
-14. **MIT 18.03SC** -> Differential Equations (Arthur Mattuck -> Essential for Decay Chains & Kinetics) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+14. **MIT 18.03SC** -> Differential Equations (Arthur Mattuck -> Essential for Decay Chains & Kinetics) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLEC88901EBADDD980" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
-15. **MIT 18.085** -> Computational Science and Engineering (Gilbert Strang) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+15. **MIT 18.085** -> Computational Science and Engineering (Gilbert Strang) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLF706B428FB7BD52C" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 16. **UIUC -> NPRE 402** -> Nuclear Power Engineering: Reactor Kinetics & Dynamics | `📄 Course Syllabus & Technical Notes` | <a href="https://npre.illinois.edu/academics/courses/npre-402" target="_blank" rel="noopener noreferrer">UIUC NPRE 402 Course Page</a>
    *(Mastery Benchmark Note: MIT 22.101 is notes-only; UIUC NPRE 402 provides complete syllabi and reactor dynamics notes).*
@@ -573,7 +573,7 @@ Covering radiation interactions, nuclear fission reactor kinetics, thermal-hydra
 
 17. **TU Delft** -> Advanced Reactor Neutronics and Fuel Depletion Simulation | `📄 Course Materials & Notes` | <a href="https://ocw.tudelft.nl/courses/understanding-nuclear-energy/" target="_blank" rel="noopener noreferrer">TU Delft Understanding Nuclear Energy Course</a>
 
-18. **MIT 2.001** -> Structural Mechanics in Nuclear Power Technology | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/2-001-mechanics-materials-i-fall-2006/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+18. **MIT 2.001** -> Structural Mechanics in Nuclear Power Technology | `📄 Complete Lecture Notes, Recitations & Exams` | <a href="https://ocw.mit.edu/courses/2-001-mechanics-materials-i-fall-2006/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a>
    *(Mastery Benchmark Note: MIT 22.314 is notes-only; MIT 2.001 provides full video lectures on pressure vessel stress analysis).*
 
 19. **Oak Ridge National Laboratory (ORNL)** -> Neutron Scattering and Diffraction Science Masterclass | `🔬 Research Technical Archive` | <a href="https://neutrons.ornl.gov/nxs" target="_blank" rel="noopener noreferrer">ORNL National Neutron Scattering School</a> | <a href="https://neutrons.ornl.gov/education" target="_blank" rel="noopener noreferrer">ORNL Neutron Science Education</a>
@@ -585,7 +585,7 @@ Covering radiation interactions, nuclear fission reactor kinetics, thermal-hydra
 
 21. **MIT 22.67J** -> Principles of Plasma Diagnostics (Graduate -> Anne White -> Thomson Scattering, Interferometry, Magnetic Probes, Spectroscopy) | `📄 Complete Lecture Notes & Assignments` | <a href="https://ocw.mit.edu/courses/22-67j-principles-of-plasma-diagnostics-fall-2023/" target="_blank" rel="noopener noreferrer">OCW Page</a>
 
-22. **MIT 22.012** -> Materials for Nuclear Applications: Radiation Damage & Embrittlement (Michael Short) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/" target="_blank" rel="noopener noreferrer">MIT OCW Course Portal</a>
+22. **MIT 22.012** -> Materials for Nuclear Applications: Radiation Damage & Embrittlement (Michael Short) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/" target="_blank" rel="noopener noreferrer">MIT OCW Course Portal</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63YwKIMA9K08FFvdeBEl6Lo" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 23. **Culham Centre for Fusion Energy (UKAEA)** -> Fusion Reactor Engineering & Tokamak Confinement | `🎥 Video Masterclass` | <a href="https://www.youtube.com/watch?v=vU9ADLJr_nc" target="_blank" rel="noopener noreferrer">High-Field Tokamaks & Fusion Energy Masterclass (MIT/PPPL)</a>
 
@@ -594,7 +594,7 @@ Covering radiation interactions, nuclear fission reactor kinetics, thermal-hydra
 
 ### Term 7 (Senior Fall): Plasma Diagnostics, Fusion Reactor Engineering & Radioactive Waste Management (3 Subjects)
 
-25. **MIT 22.01 / Michael Short** -> Advanced Radiation Damage in Reactor Steels and Ceramics | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/" target="_blank" rel="noopener noreferrer">MIT OCW Course Portal</a>
+25. **MIT 22.01 / Michael Short** -> Advanced Radiation Damage in Reactor Steels and Ceramics | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/" target="_blank" rel="noopener noreferrer">MIT OCW Course Portal</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63YwKIMA9K08FFvdeBEl6Lo" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
    *(Mastery Benchmark Note: MIT 22.74 is notes-only; Prof. Short's 22.01 video archive provides complete video lectures on radiation defect kinetics).*
 
 26. **UIUC -> NPRE 442** -> Radioactive Waste Management & Reactor Operations Safety | `📄 Course Syllabus & Notes` | <a href="https://npre.illinois.edu/academics/courses/npre-442" target="_blank" rel="noopener noreferrer">UIUC NPRE 442 Course Page</a>
@@ -649,7 +649,7 @@ Synthesizing deep-space astrophysics, cosmology, and planetary science with rock
 
 10. **MIT 16.50** -> Introduction to Propulsion Systems (Jack Kerrebrock -> Turbojets, Turbofans, Rockets, Nozzle Flow, Inlets) | `📄 Complete Lecture Notes & Problem Sets` | <a href="https://ocw.mit.edu/courses/16-50-introduction-to-propulsion-systems-spring-2012/" target="_blank" rel="noopener noreferrer">OCW Page</a>
 
-11. **MIT 2.001** -> Mechanics of Aerospace Materials & Lightweight Structures | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/2-001-mechanics-materials-i-fall-2006/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+11. **MIT 2.001** -> Mechanics of Aerospace Materials & Lightweight Structures | `📄 Complete Lecture Notes & Problem Sets` | <a href="https://ocw.mit.edu/courses/2-001-mechanics-materials-i-fall-2006/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a>
    *(Mastery Benchmark Note: MIT 16.20 is notes-only; MIT 2.001 provides complete video lectures on composite shell buckling and stress).*
 
 12. **MIT 16.100** -> Aerodynamics (Graduate -> David Darmofal -> Subsonic, Transonic, Boundary Layers, Shock Waves) | `📄 Complete Lecture Notes & Assignments` | <a href="https://ocw.mit.edu/courses/16-100-aerodynamics-fall-2005/" target="_blank" rel="noopener noreferrer">OCW Page</a>
@@ -663,7 +663,7 @@ Synthesizing deep-space astrophysics, cosmology, and planetary science with rock
 
 15. **Stanford AA 228 / CS 238** -> Decision Making Under Uncertainty & Autonomous Aerospace Systems (Prof. Mykel Kochenderfer -> MDPs, POMDPs, Reinforcement Learning, Autonomous Flight) | `🎥 Full Video` | <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rNXnHUlDJ1jnvZgNN5Q60d3" target="_blank" rel="noopener noreferrer">Stanford AA 228 YouTube Playlist</a>
 
-16. **Yale University ASTR 160** -> Frontiers and Controversies in Astrophysics (Charles Bailyn -> Black Holes, Exoplanets, Dark Energy) | `🎥 Full Video` | <a href="https://oyc.yale.edu/astronomy/astr-160" target="_blank" rel="noopener noreferrer">Yale Open Courses</a>
+16. **Yale University ASTR 160** -> Frontiers and Controversies in Astrophysics (Charles Bailyn -> Black Holes, Exoplanets, Dark Energy) | `🎥 Full Video` | <a href="https://oyc.yale.edu/astronomy/astr-160" target="_blank" rel="noopener noreferrer">Yale Open Courses</a> | <a href="https://www.youtube.com/playlist?list=PLD1515420F4E601A4" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 ### Term 5 (Junior Fall): Space Shuttle Systems Engineering, Satellite Bus Subsystems, Stellar Structure & Exoplanet Atmospheres (4 Subjects)
 
@@ -678,7 +678,7 @@ Synthesizing deep-space astrophysics, cosmology, and planetary science with rock
 
 ### Term 6 (Junior Spring): Space Propulsion, Statistical Astrophysics, Galactic Dynamics & Autonomous Aerospace Systems (4 Subjects)
 
-21. **Yale University ASTR 160 / Open Yale** -> Modern Astrophysics: Stellar Evolution & Supernovae | `🎥 Full Video` | <a href="https://oyc.yale.edu/astronomy/astr-160" target="_blank" rel="noopener noreferrer">Yale Open Courses</a>
+21. **Yale University ASTR 160 / Open Yale** -> Modern Astrophysics: Stellar Evolution & Supernovae | `🎥 Full Video` | <a href="https://oyc.yale.edu/astronomy/astr-160" target="_blank" rel="noopener noreferrer">Yale Open Courses</a> | <a href="https://www.youtube.com/playlist?list=PLD1515420F4E601A4" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
    *(Mastery Benchmark Note: MIT 8.284 is notes-only; Yale ASTR 160 provides complete video recordings).*
 
 22. **MIT 8.901** -> Astrophysics I: Stellar Structure and Evolution (Graduate -> Scott Hughes & Deepto Chakrabarty -> Polytropes, Nuclear Burning, White Dwarfs, Supernovae) | `📄 Complete Lecture Notes & Problem Sets` | <a href="https://ocw.mit.edu/courses/8-901-astrophysics-i-spring-2006/" target="_blank" rel="noopener noreferrer">OCW Page</a>
@@ -698,11 +698,11 @@ Synthesizing deep-space astrophysics, cosmology, and planetary science with rock
 
 ### Term 8 (Senior Spring): Advanced Cosmology & Multiverse, Space Mission Design Capstone & Cosmic Structure Formation (3 Subjects)
 
-28. **MIT 8.044 / 8.333** -> Statistical Physics & Radiation in Astrophysics (Blackbody, Degeneracy Pressure in White Dwarfs) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+28. **MIT 8.044 / 8.333** -> Statistical Physics & Radiation in Astrophysics (Blackbody, Degeneracy Pressure in White Dwarfs) | `🎥 Full Video` | <a href="https://ocw.mit.edu/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLYmwFR_XLSpb-1cxPCG2X4NUeRuMLv61A" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 29. **MIT 8.04** -> Quantum Physics I (Atomic Spectra, Zeeman Effect, Hydrogen 21cm Hyperfine Line) | `🎥 Full Video` | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G" target="_blank" rel="noopener noreferrer">MIT 8.04 Full Video Playlist</a> | <a href="https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/" target="_blank" rel="noopener noreferrer">OCW Page</a>
 
-30. **Stanford University / Leonard Susskind** -> Advanced Cosmology, Big Bang & The Multiverse | `🎥 Full Video` | <a href="https://theoreticalminimum.com/courses/cosmology" target="_blank" rel="noopener noreferrer">Stanford Theoretical Minimum</a>
+30. **Stanford University / Leonard Susskind** -> Advanced Cosmology, Big Bang & The Multiverse | `🎥 Full Video` | <a href="https://theoreticalminimum.com/courses/cosmology" target="_blank" rel="noopener noreferrer">Stanford Theoretical Minimum Portal</a> | <a href="https://www.youtube.com/playlist?list=PLvh0vlLitZ7c8Avsn6gUaWX05uD5cedO-" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
    *(Senior Capstone Framework Benchmark: Leonard Susskind's Stanford masterclass provides the complete video capstone on cosmological structure).*
 
 ***
@@ -759,7 +759,7 @@ Synthesizing evolutionary psychology, human behavioral biology, cognitive psycho
 
 ### Term 5 (Junior Fall): Neural Computation Biophysics, Social Influence, Minds & Machines (Chinese Room) & Philosophical Logic (4 Subjects)
 
-17. **Oxford University** -> Philosophy of Mind (Peter Millican / Marianne Talbot -> Mind-Body Problem, Dualism, Physicalism, Qualia, Mary the Colour Scientist) | `🎥 Full Video` | <a href="https://podcasts.ox.ac.uk/series/romp-through-philosophy-mind" target="_blank" rel="noopener noreferrer">Oxford Podcasts Portal</a>
+17. **Oxford University** -> Philosophy of Mind (Peter Millican / Marianne Talbot -> Mind-Body Problem, Dualism, Physicalism, Qualia, Mary the Colour Scientist) | `🎥 Full Video` | <a href="https://podcasts.ox.ac.uk/series/romp-through-philosophy-mind" target="_blank" rel="noopener noreferrer">Oxford Podcasts Portal</a> | <a href="https://www.youtube.com/playlist?list=PLHcK7dC80eQ2VGkK6y7d88Jel-APmquKK" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 18. **UC Berkeley** -> Philosophy of Mind & Consciousness (John Searle -> Inventor of the Chinese Room Argument, Intentionality, Biological Naturalism) | `🎥 Full Video` | <a href="https://www.youtube.com/playlist?list=PL553DCA4DB88B0408" target="_blank" rel="noopener noreferrer">YouTube Series</a>
 
@@ -801,10 +801,10 @@ Synthesizing evolutionary psychology, human behavioral biology, cognitive psycho
 30. **MIT 24.900 / Chomsky Masterclass** -> Semantics, Pragmatics and Cognitive Architecture (Noam Chomsky) | `📄 Complete Lecture Notes & Readings` | <a href="https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2022/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a>
    *(Mastery Benchmark Note: MIT 24.903 is notes-only; Chomsky's lectures provide video coverage).*
 
-31. **Oxford University** -> Philosophical Logic & Modal Reasoning (Marianne Talbot -> Possible Worlds, Kripke Frames) | `🎥 Full Video` | <a href="https://podcasts.ox.ac.uk/series/critical-reasoning-beginners" target="_blank" rel="noopener noreferrer">Oxford Podcasts Critical Reasoning</a>
+31. **Oxford University** -> Philosophical Logic & Modal Reasoning (Marianne Talbot -> Possible Worlds, Kripke Frames) | `🎥 Full Video` | <a href="https://podcasts.ox.ac.uk/series/critical-reasoning-beginners" target="_blank" rel="noopener noreferrer">Oxford Podcasts Critical Reasoning</a> | <a href="https://www.youtube.com/playlist?list=PLCFOtOThmlATHun7YyMXnxCbykYjFi_aT" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
    *(Mastery Benchmark Note: MIT 24.244 is notes-only; Oxford University provides complete video lectures).*
 
-32. **Yale University -> PHIL 181 / CGSC 280** -> Philosophy and the Science of Human Nature (Tamar Gendler -> Cognitive Psychology, Neuroscience & Moral Philosophy) | `🎥 Full Video` | <a href="https://oyc.yale.edu/philosophy/phil-181" target="_blank" rel="noopener noreferrer">Yale Open Courses PHIL 181</a>
+32. **Yale University -> PHIL 181 / CGSC 280** -> Philosophy and the Science of Human Nature (Tamar Gendler -> Cognitive Psychology, Neuroscience & Moral Philosophy) | `🎥 Full Video` | <a href="https://oyc.yale.edu/philosophy/phil-181" target="_blank" rel="noopener noreferrer">Yale Open Courses PHIL 181</a> | <a href="https://www.youtube.com/playlist?list=PL3F6BC200B2930084" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 ***
 
@@ -853,7 +853,7 @@ A practical, hands-on masterclass dedicated entirely to **how to be world-class 
 
 ### Term 8 (Senior Spring): Scientific & Product Photography, Clean Lighting & Portfolio Capstone
 
-8. **MIT RES.10-001** -> Making Science & Product Pictures: Visual Presentation for Engineers (Felice Frankel) | `🎥 Full Video Lectures` | <a href="https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/" target="_blank" rel="noopener noreferrer">OCW Page</a>
+8. **MIT RES.10-001** -> Making Science & Product Pictures: Visual Presentation for Engineers (Felice Frankel) | `🎥 Full Video Lectures` | <a href="https://ocw.mit.edu/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/" target="_blank" rel="noopener noreferrer">MIT OCW Page</a> | <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62u0NhYTD1_h0ub_D4MGhuz" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
    • *Mastery Goal:* Macrophotography, lighting reflective metallic and glass objects, clean background isolation, and presenting technical creations with visual punch.
 
 ***
@@ -876,11 +876,11 @@ The tools to formulate logically airtight arguments on paper, eliminate ambiguit
 
 ### Term 4 (Sophomore Spring): Scientific Communication & Research Paper Writing (Kristin Sainani)
 
-4. **Harvard University** -> Rhetoric: The Art of Persuasive Writing and Public Speaking (James Engell) | `🎥 Full Video` | <a href="https://www.edx.org/learn/rhetoric/harvard-university-rhetoric-the-art-of-persuasive-writing-and-public-speaking" target="_blank" rel="noopener noreferrer">HarvardX / edX</a>
+4. **Harvard University** -> Rhetoric: The Art of Persuasive Writing and Public Speaking (James Engell) | `💻 Interactive Video Course & Case Studies` | <a href="https://www.edx.org/learn/rhetoric/harvard-university-rhetoric-the-art-of-persuasive-writing-and-public-speaking" target="_blank" rel="noopener noreferrer">HarvardX edX Course</a>
 
 ### Term 5 (Junior Fall): Cognitive Linguistics, Writing Style & The Curse of Knowledge (Steven Pinker)
 
-5. **Oxford University** -> Critical Reasoning for Beginners: Informal Logic, Argument Analysis & Fallacies (Marianne Talbot) | `🎥 Full Video` | <a href="https://podcasts.ox.ac.uk/series/critical-reasoning-beginners" target="_blank" rel="noopener noreferrer">Oxford Podcasts Archive</a>
+5. **Oxford University** -> Critical Reasoning for Beginners: Informal Logic, Argument Analysis & Fallacies (Marianne Talbot) | `🎥 Full Video` | <a href="https://podcasts.ox.ac.uk/series/critical-reasoning-beginners" target="_blank" rel="noopener noreferrer">Oxford Podcasts Archive</a> | <a href="https://www.youtube.com/playlist?list=PLCFOtOThmlATHun7YyMXnxCbykYjFi_aT" target="_blank" rel="noopener noreferrer">YouTube Playlist</a>
 
 ### Term 6 (Junior Spring): Narrative Architecture, Essay Craft & Story Shapes (Kurt Vonnegut)
 
